@@ -49,6 +49,13 @@
  **Deployment**
 
  **Credits**
+The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough.
+
+How to use Gitpod and implementing the project is accredited to the Code Institute course material.
+
+The Tutor Support helped me to sort out the initial technical issues with Gitpod especially with the Git Push error that Jo from Belgium helped me to sort out.
+
+The Information about the five planes of User Experience Design are accredited to Jesse James Garrett as displayed in the UXD part of the code Institute course. This part of the course I found very useful especially in trying to understand what the user wish to get from a service or website.  This helped me to think about the users needs more clearly.
 
  **content**
 
@@ -56,7 +63,7 @@
 
  **Other General Project Advice**
 
- 
+
 
 
 
