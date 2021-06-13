@@ -2,13 +2,29 @@
  
  This project hopes to accomplish delivering lesson techniques on yoga and meditation to the users. Wellbeing has become an integral part of our lives. increasingly a work life balance enables us into living happier and fuller lives.
 
+**User Experience Design**
+
+**The Goals of the user**
+1. To learn about self-improvement techniques
+2. To feel comfortable in being able to use these self-improvement techniques.
+3. To gain confidence in using these self-improvement techniques.
+4. To have a better sense of wellbeing.
+5. To enjoy the experience and to feel at ease on the site.
+
+**The Goals for the Business**
+1. To give the user a positive and intuitive experience.
+2. To give the user an opportunity to learn about self-improvement techniques.
+3. To promote the benefits of yoga and meditation.
+4. To reach out to a wider audience that have not considered yoga and meditation before.
+5. To enable the user to learn some skills in yoga and meditation.
+
 **Strategy**
 
- This project hopes to target anyone interested in learning about yoga and meditation. The target audience can range from beginners to more advanced practioners. However this site is aims to provide body/mind techniques to people that are interested in learning more about these techniques. Therefore it is better suited to beginners.
+ This project hopes to target anyone interested in learning about yoga and meditation. The target audience is mainly aimed at beginners. However this site is aims to provide body/mind techniques to people that are interested in learning more about these techniques. 
 
  This will be useful to the target audience as it will give them an idea and techniques on how to do yoga and meditation for there wellbeing.
 
- Within the Code Institute User Experience module I found this process of User Experience Design to be very be very thought provoking.
+ Within the Code Institute User Experience module I found this process of User Experience Design to be important.
 
  I formulated some questions to see what users would want from a Yoga and meditation site.
 
@@ -101,10 +117,12 @@ Surname and and input box
 Email and and input box
 A textarea for a user to submit a question or leave information.
 A submit button
+
  **The Footer Section**
 The footer will include icons for Twitter, facebook and instagram.  
 There will be copyright information at the bottom.
 Again I do not want to put the footer in different coloured area as I feel this may distract from the overall theme of the site.
+
  **Features Left to Implement**
 I am thinking it would be good to have a section for teachers in the future.  There could also be a place to list a timetable of classes.  I think with covid it has high lighted the importance of social distancing and conducting classes over the web through zomm could be a good idea.
 
