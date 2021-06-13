@@ -51,12 +51,27 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
  **Landing Page**
 
+ I decided to keep the landing page simple because I remember when I studied a short course at Birmingham City University the lecturer telling us that the best websites incorporated simplicity into their design like Google that only have a plain landing page with a search engine in the middle.  Thereby the users are not overwhelmed with too much information.
+
  **Navigation**
 
+ I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was to use this F shape as a guide and to place the Navigation there.
+
+ I also decided that I wanted to have the navigation in text form and not in a navigation bar as this may distract from the simplicity and consistency of the site.
+
+
+
  **The Wellbeing retreat**
+This main header I want to put in the upper centre part of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
+
+**The Statement**
+The statement under the heading is welcome users onto the site as one is welcomed into a shop or restaurant.  Allowing the user that they are valued in this process.
 
  **The Images on the Landing Page**
-
+I decided to add two images here.
+One will be a Yoga image.
+Second one will be a meditation image.
+The reason I decided to do this is because the aim is to develop a body/mind self-improvement techniques. Thereby each image will be representation of the body (a yoga pose) and the mind (someone sitting in meditation)
  **The Yoga Section**
 
  **The Meditation Section**
@@ -66,7 +81,7 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
  **The Footer Section**
 
  **Features Left to Implement**
-
+I am thinking it would be good to have a section for teachers in the future.  There could also be a place to list a timetable of classes.  I think with covid it has high lighted the importance of social distancing and conducting classes over the web through zomm could be a good idea.
  **Testing**
 
  **Validator Testing**
