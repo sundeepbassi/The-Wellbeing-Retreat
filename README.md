@@ -1,6 +1,6 @@
  # The Wellbeing Retreat
  
- This project hopes to accomplish delivering lesson techniques on yoga and meditation to the users. Wellbeing has become an integral part of our lives. increasigly a work life balance promotes us into living happier and fuller lives.
+ This project hopes to accomplish delivering lesson techniques on yoga and meditation to the users. Wellbeing has become an integral part of our lives. increasingly a work life balance enables us into living happier and fuller lives.
 
 **Strategy**
 
@@ -72,11 +72,26 @@ I decided to add two images here.
 One will be a Yoga image.
 Second one will be a meditation image.
 The reason I decided to do this is because the aim is to develop a body/mind self-improvement techniques. Thereby each image will be representation of the body (a yoga pose) and the mind (someone sitting in meditation)
+ 
+ **Yoga/Meditation**
+ I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore their layout should be simple and effective.
  **The Yoga Section**
-
+What is Yoga?
+Where did it originate?
+What are the techniques?
+List the techniques
+There will be a lesson on how to do one of the techniques.
+There will be an image to compliment that technique.
+There will be a video on how to do the technique.
  **The Meditation Section**
-
- **The Feedback Section**
+What is Meditation?
+Where did it originate
+What are the techniques? 
+List the techniques.
+There will be a lesson on how to do one of the techniques.
+There be an image to compliment that technique.
+There will be a video on how to do the technique.
+ **Sign up Section**
 
  **The Footer Section**
 
