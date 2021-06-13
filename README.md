@@ -65,7 +65,7 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 This main header I want to put in the upper centre part of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
 
 **The Statement**
-The statement under the heading is welcome users onto the site as one is welcomed into a shop or restaurant.  Allowing the user that they are valued in this process.
+The statement under the heading is to welcome users onto the site as one is welcomed into a shop or restaurant.  Allowing the user that they are valued in this process.
 
  **The Images on the Landing Page**
 I decided to add two images here.
@@ -75,6 +75,7 @@ The reason I decided to do this is because the aim is to develop a body/mind sel
  
  **Yoga/Meditation**
  I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore their layout should be simple and effective.
+
  **The Yoga Section**
 What is Yoga?
 Where did it originate?
@@ -83,6 +84,7 @@ List the techniques
 There will be a lesson on how to do one of the techniques.
 There will be an image to compliment that technique.
 There will be a video on how to do the technique.
+
  **The Meditation Section**
 What is Meditation?
 Where did it originate
@@ -91,12 +93,21 @@ List the techniques.
 There will be a lesson on how to do one of the techniques.
 There be an image to compliment that technique.
 There will be a video on how to do the technique.
+
  **Sign up Section**
-
+The sign up section will have the following.
+First Name and an input box
+Surname and and input box
+Email and and input box
+A textarea for a user to submit a question or leave information.
+A submit button
  **The Footer Section**
-
+The footer will include icons for Twitter, facebook and instagram.  
+There will be copyright information at the bottom.
+Again I do not want to put the footer in different coloured area as I feel this may distract from the overall theme of the site.
  **Features Left to Implement**
 I am thinking it would be good to have a section for teachers in the future.  There could also be a place to list a timetable of classes.  I think with covid it has high lighted the importance of social distancing and conducting classes over the web through zomm could be a good idea.
+
  **Testing**
 
  **Validator Testing**
