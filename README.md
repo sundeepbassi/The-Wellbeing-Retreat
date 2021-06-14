@@ -65,6 +65,15 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
  **features**
 
+ **Font used on the Site**
+
+ In considering the font for the site the article on Canva was helpful in viewing a number of fonts displayed on various websites. Bebas Neue was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. 
+
+ Image Link to font chosen 
+
+ [canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
+
+
  **Landing Page**
 
  I decided to keep the landing page simple because I remember when I studied a short course at Birmingham City University the lecturer telling us that the best websites incorporated simplicity into their design like Google that only have a plain landing page with a search engine in the middle.  Thereby the users are not overwhelmed with too much information.
@@ -147,6 +156,11 @@ The Information about the five planes of User Experience Design are accredited t
 Differentiating between User Experience and User Interface in the technology sector is attributed to Emil Lamprecht and Dee Scara from the Careerfoundary. Excellent video explaining the two roles in the industry.
 
 I am grateful to Jim community_CI on the slack platform for forwarding a presentation on the preparation for the first milestone project. This helped me to be better organised with this project.
+
+The ideas for the Font text were considered on the website canva written by Emma Norris
+
+[canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
+
 
  **content**
 
