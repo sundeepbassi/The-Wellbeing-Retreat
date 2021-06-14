@@ -2,7 +2,8 @@
  
  This project hopes to accomplish delivering lesson techniques on yoga and meditation to the users. Wellbeing has become an integral part of our lives. increasingly a work life balance enables us into living happier and fuller lives.
 
-**User Experience Design**
+## User Experience Design
+
 
 **The Goals of the user**
 1. To learn about self-improvement techniques
@@ -20,13 +21,13 @@
 
 **Strategy**
 
- This project hopes to target anyone interested in learning about yoga and meditation. The target audience is mainly aimed at beginners. However this site is aims to provide body/mind techniques to people that are interested in learning more about these techniques. 
+ This project hopes to target anyone interested in learning about yoga and meditation. The target audience is mainly aimed at beginners. However this site aims to provide body/mind techniques to people that are interested in learning more about these techniques. 
 
- This will be useful to the target audience as it will give them an idea and techniques on how to do yoga and meditation for there wellbeing.
+ No age range has been specified as the aim is to make these self-improvement techniques available to all that are interested.
 
- Within the Code Institute User Experience module I found this process of User Experience Design to be important.
+ Within the Code Institute User Experience module, one realised the overall importance this had  in planning the project.
 
- I formulated some questions to see what users would want from a Yoga and meditation site.
+ one formulated some questions to see what users would want from a Yoga and meditation site.
 
  1. What would you like to see about yoga and meditation on a site.
  
@@ -38,7 +39,7 @@
 
  5. What social media contacts would you like to see incorporated on the site?
 
- I named the site The Wellbeing because I wanted to give the users a feeling that they were about to enter a retreat from where they could switch off from the outside world.
+ The site was named The Wellbeing Retreat because one wanted to give the users a feeling that they were about to enter a retreat from where they could switch off from the outside world.
 
  I initially had the idea of using the title Yogimed and realised that this may give the user the wrong impression. As the end of the  word maybe misinterpreted to mean medical.
 
