@@ -69,7 +69,9 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
  
  How the Font and the background colour were used on the site, one did research especially in relation to accessibily for people with visual impairment.
 
- In considering the typograhy font for the site the article on Canva was helpful in viewing a number of fonts displayed on various websites. Bebas Neue was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. contrast with montserrat was suggested to be best suited.
+ In considering the typograhy font for the site the article on Canva was helpful in viewing a number of fonts displayed on various websites. Bebas Neue was initially chosen however this was changed to Manjari. The benefit of viewing the text in Google Fonts enabled one to see the diffence in appearance with both fonts.
+ 
+  Manjari was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. Google Font recommended Montserrat to compliment Manjari. 
 
  One wanted to find typoghraphy and fonts that were both professional and had an aesthetic appeal. The Canva website showcased a number of fonts that created a good impression to the user.
 
@@ -234,6 +236,12 @@ Principal design
 Santhosh Thottingal is a typeface designer and a software engineer from India. He is an active contributor of Swathanthra Malayalam Computing organization and has designed popular Malayalam typefaces like Manjari and Chilanka.
 
 thottingal.in/
+
+Above information provided by google fonts.
+
+To set the h2 element to italics information provided by W3schools.
+
+[W3schools](https://www.w3schools.com/cssref/pr_font_font-style.asp)
 
 How to use Gitpod and implementing the project is accredited to the Code Institute course material.
 
