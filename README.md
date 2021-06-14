@@ -83,9 +83,15 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
 Every font has its own personality; whether it's elegant, fun, cool, or relaxed. Read on for four styles of fonts to try in your designs." 
 
-quote taken from Canva written by Poppy Peck.
+quote taken from Canva written by Poppy Pack.
 
-[canva how fonts speak to you](https://www.canva.com/learn/how-different-fonts-speak-to-you/)]
+[canva how fonts speak to you](https://www.canva.com/learn/how-different-fonts-speak-to-you/)
+
+Canva's ultimate guide to font pairing by Poppie Pack
+
+[Font Pairing](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
+
+
 
  Image Link to font chosen 
 
@@ -93,6 +99,10 @@ quote taken from Canva written by Poppy Peck.
 
  [Canva's ultimate guide to font pairing
 ](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
+
+Establish a Mood with Typography Carrie Cousins
+
+[typography moods](https://tympanus.net/codrops/2012/02/19/establish-a-mood-with-typography/)
 
 The next step was to see how font colours contrasted with the background colours. The article and display board were very useful.
 
