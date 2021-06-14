@@ -207,6 +207,34 @@ Web Accessibilty Evaluation Tool
 
 The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough.
 
+To set the font, remove default marging and padding was show in the Love Running Walkthrough.
+
+To set the h1 element to align to the centre of page was shown in stack.
+
+[Stack Overflow](https://stackoverflow.com/questions/21051578/how-do-i-center-an-h1-in-the-body)
+
+Google Fonts used to set the fonts for the site.
+
+[Google Fonts](https://fonts.google.com/specimen/Manjari?preview.text=The%20Wellbeing%20Retreat&preview.text_type=custom#about)
+
+Information about the font Manjari
+
+About Manjari
+
+Manjari is a Malayalam and Latin family whose name means pearl in Malayalam. It's also the name of a poetic metre. This family is suitable for body text and titles.
+
+To contribute, see github.com/smc/manjari
+
+Designer
+Avatar of the designer
+Santhosh Thottingal
+
+Principal design
+
+Santhosh Thottingal is a typeface designer and a software engineer from India. He is an active contributor of Swathanthra Malayalam Computing organization and has designed popular Malayalam typefaces like Manjari and Chilanka.
+
+thottingal.in/
+
 How to use Gitpod and implementing the project is accredited to the Code Institute course material.
 
 The Tutor Support helped me to sort out the initial technical issues with Gitpod especially with the Git Push error that Jo from Belgium helped me to sort out.
