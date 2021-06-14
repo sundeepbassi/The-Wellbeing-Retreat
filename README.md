@@ -65,13 +65,59 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
  **features**
 
- **Font used on the Site**
+**Typography**
+ 
+ How the Font and the background colour were used on the site, one did research especially in relation to accessibily for people with visual impairment.
 
- In considering the font for the site the article on Canva was helpful in viewing a number of fonts displayed on various websites. Bebas Neue was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. 
+ In considering the typograhy font for the site the article on Canva was helpful in viewing a number of fonts displayed on various websites. Bebas Neue was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. contrast with montserrat was suggested to be best suited.
+
+ One wanted to find typoghraphy and fonts that were both professional and had an aesthetic appeal. The Canva website showcased a number of fonts that created a good impression to the user.
+
+ [canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
+
+ In another aricle on canva on how different fonts speak to you. There was a statement about how 
+ 
+ "fonts help give personality to your design and help you communicate your message through visual cues.
+
+ When seeing the Bebas Neue this clearly stood out in its representation as a therupeatic font.
+
+Every font has its own personality; whether it's elegant, fun, cool, or relaxed. Read on for four styles of fonts to try in your designs." 
+
+quote taken from Canva written by Poppy Peck.
+
+[canva how fonts speak to you](https://www.canva.com/learn/how-different-fonts-speak-to-you/)]
 
  Image Link to font chosen 
 
  [canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
+
+ [Canva's ultimate guide to font pairing
+](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
+
+The next step was to see how font colours contrasted with the background colours. The article and display board were very useful.
+
+How to Contrast Background and Foreground Colors in Web Design By Jeremy Girard on the ThoughtCo. Website. 
+
+[Contrasting Colours](https://www.thoughtco.com/contrasting-foreground-background-colors-4061363)
+
+[Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+
+
+[Contrast Checker](https://contrastchecker.com/)
+
+ WebAIM website for Persons with Disabilities
+
+ [Webaim](https://webaim.org/resources/contrastchecker/)
+
+Images taken to help decide best colour scheme for the site regarding background and foreground contrasts.  This was also to ensure that it was useable for people with visual impairments.
+
+
+
+
+
+
+
 
 
  **Landing Page**
@@ -136,6 +182,10 @@ Again I do not want to put the footer in different coloured area as I feel this 
 I am thinking it would be good to have a section for teachers in the future.  There could also be a place to list a timetable of classes.  I think with covid it has high lighted the importance of social distancing and conducting classes over the web through zomm could be a good idea.
 
  **Testing**
+
+Web Accessibilty Evaluation Tool
+
+ [Wave](https://wave.webaim.org/)
 
  **Validator Testing**
 
