@@ -62,20 +62,23 @@ margin-left: 30px;
 /* images on landing page*/
 
 #yoga-image {
-     height: 400px;
+     height: 650px;
      width: 50%;
-     background-image: url('../images/yoga-image.jpg'); 
+     background-image: url('../images/yoga-image-(2).jpg'); 
      background-repeat: no-repeat;
      float: left;
+    
      
 }
 
 #meditate-image {
-          height: 400px;
+          height: 650px;
           width: 50%;
           background-image: url('../images/meditate-image.jpg'); 
           background-repeat: no-repeat;
           float: right;
+         margin: 0 auto;
+        
      
 }
      
