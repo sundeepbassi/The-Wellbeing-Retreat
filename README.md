@@ -139,11 +139,25 @@ Images taken to help decide best colour scheme for the site regarding background
 
  **Navigation**
 
- I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was to use this F shape as a guide and to place the Navigation there.
+ I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was best to use this F shape as a guide and to place the Navigation at the top left side of the page.
 
  I also decided that I wanted to have the navigation in text form and not in a navigation bar as this may distract from the simplicity and consistency of the site.
 
+**No Background image**
 
+I checked the Code Institute recommendation to read the article in the website usersnap.  However I decided that I did not want to put a background image on the site because I felt it may distract the user away from the purpose of the site which is to provide learning and a feeling of tranquility.  The article stated that video, animation and hero backgrounds had become popular.  However I think that although this may be good for some websites that it does not mean that this would be suitable for all websites.  My argument being that every site functions differently according to the service it provides to its users.  Therefore, The Wellbeing Retreats purpose is to provide learning and wellbeing and the simplicity in its style promotes this idea of calmness and wellbeing. I noticed that when I did my research on websites for yoga and meditation that although initially I did find the background images appealing however this distracted me from checking out some of the other elements on the site.
+
+
+[OrangeYoga](https://www.orangeyoga.co.uk/)
+
+A yoga website with a background image.
+
+[Usersnap](https://usersnap.com/blog/background-webdesign/)
+
+Web Design: When the Background Becomes the Main Stage
+
+by Rebecca Vogels
+Web Development
 
  **The Wellbeing retreat**
 This main header I want to put in the upper centre part of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
@@ -210,9 +224,11 @@ Web Accessibilty Evaluation Tool
 
 The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough.
 
-To set the font, remove default marging and padding was show in the Love Running Walkthrough.
+To set the font, remove default marging and padding was shown in the Love Running Walkthrough.
 
-To set the h1 element to align to the centre of page was shown in stack.
+To set the navigation styles was shown in Love Running the Code Institute. 
+
+To set the h1 element to align to the centre of page was shown in stack overfow.
 
 [Stack Overflow](https://stackoverflow.com/questions/21051578/how-do-i-center-an-h1-in-the-body)
 
@@ -243,6 +259,8 @@ Above information provided by google fonts.
 To set the h2 element to italics information provided by W3schools.
 
 [W3schools](https://www.w3schools.com/cssref/pr_font_font-style.asp)
+
+
 
 How to use Gitpod and implementing the project is accredited to the Code Institute course material.
 
