@@ -39,7 +39,7 @@
 
  5. What social media contacts would you like to see incorporated on the site?
 
- The site was named The Wellbeing Retreat because one wanted to give the users a feeling that they were about to enter a retreat from where they could switch off from the outside world.
+ The site was named The Wellbeing Retreat because one  wanted to give the users a feeling that they were about to enter a retreat from where they could switch off from the outside world.
 
  I initially had the idea of using the title Yogimed and realised that this may give the user the wrong impression. As the end of the  word maybe misinterpreted to mean medical.
 
