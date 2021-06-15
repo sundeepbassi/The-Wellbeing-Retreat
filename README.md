@@ -261,6 +261,8 @@ To set the font, remove default marging and padding was shown in the Love Runnin
 
 To set the navigation styles was shown in Love Running the Code Institute. 
 
+The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported in resolving issues with images not loading.
+
 To set the h1 element to align to the centre of page was shown in stack overfow.
 
 [Stack Overflow](https://stackoverflow.com/questions/21051578/how-do-i-center-an-h1-in-the-body)
