@@ -60,3 +60,12 @@ margin-left: 30px;
 .active {
      border-bottom: 1px solid #3a3a3a;
 }
+
+/* images on landing page*/
+
+#yoga-image {
+     height: 400px;
+     width: 50%;
+     background-image: url('../images/yoga-image.jpg');
+     background-repeat: no-repeat;
+}
