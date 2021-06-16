@@ -67,17 +67,17 @@ margin-left: 30px;
      background-image: url('../images/yoga-image-(2).jpg'); 
      background-repeat: no-repeat;
      float: left;
-    
-     
+     align-items: center;
 }
 
 #meditate-image {
+     
           height: 650px;
           width: 50%;
           background-image: url('../images/meditate-image.jpg'); 
           background-repeat: no-repeat;
           float: right;
-         margin: 0 auto;
+       
         
      
 }
