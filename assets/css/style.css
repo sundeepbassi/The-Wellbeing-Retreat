@@ -99,4 +99,12 @@ margin-left: 30px;
      float: right;
      background-color: white;
 }
+
+.left-about-heading-yoga{
+     width: 60%;
+     float: left;
+     line-height: 20px;
+     clear: both;
+     margin-bottom: 50px;
+}
      
