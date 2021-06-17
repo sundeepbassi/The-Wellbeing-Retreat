@@ -97,7 +97,11 @@ margin-left: 30px;
      padding-top: 30px;
      width: 50%;
      float: left;
-     background-color: red;
+     background-color: ;
+     position: absolute;
+     margin-bottom: 1500px;
+     margin-left: ;
+     vertical-align:  ;
 }
 
 #right-yoga{
@@ -106,12 +110,19 @@ margin-left: 30px;
      float: right;
      background-color: white;
 }
+ 
+hr {border-top: 1px;
+     width: 100%,
+}
+
+}
+}
 .left-yoga-heading{
-     width: 60%;
-     float:right;
+     width: 50%;
+     float: right;
      line-height: 20px;
      clear: both;
-     margin-bottom: 50px;
-     position: relative;
-     bottom: 550px;
+     margin-bottom: ;
+     position: absolute;
+     bottom: 1550px;
 }
