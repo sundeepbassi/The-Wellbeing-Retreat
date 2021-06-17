@@ -324,6 +324,35 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
  **Media**
 
  **Other General Project Advice**
+ 
+ **Reflective Learning Log**
+ On 17th of June 2021, one had to restart from the beginning as it had been very challenging trying to get the site to work properly. The decision was taken to start again and try to keep it better organised. Big learning curve. I was exhausted and tired and not slept and I wanted to do a good project.  I also realised with my interaction with class mates on Slack that I was not the only one.
+
+ I also began to realise that a good design is also about having a good mindset.  Do not try to make things too complicated and don't think that every function is needed.
+
+ I learnt it is best to check things out before panicking.
+
+ A classmate informed me that there were good tutorials online that were helpful.  After watching a few I began to pick up things much  better such as learning about CSS positioning.  
+
+ CSS is very challenging for me as it is not easy trying to figure things out in one's head and trying to see how it will look on the page.  The numbers and positioning is something I need to look into further and practise on.
+
+ As a beginner the small steps are important.
+
+ Should not beat myself but take time to learn and implement.
+
+ I am doing a site on wellbeing and I need to include that in my studies.
+
+ I realise when something doesn't work I get frustrated.
+
+ I must also realise that when it works I am very happy.
+
+ Realised that the best approach was not to rush the process and to break it down into manageable parts.
+
+ Reealised best practice was to keep it simple and clear.
+
+ I realised that paying attention to detail was very important. The smallest things affect the biggest outcomes.
+
+ I also had to look at my own learning style. How did 
 
 
 
