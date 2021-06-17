@@ -261,7 +261,7 @@ The code for the Meta data, implementing the boilerplate and implementing the fo
 
 To set the font, remove default marging and padding was shown in the Love Running Walkthrough.
 
-To set the navigation styles was shown in Love Running the Code Institute. 
+To set the navigation styles was shown in Love Running the Code Institute. I also learnt from deved to fix the navigation menu.
 
 The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported me in resolving issues with images not loading.
 
@@ -359,6 +359,11 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
  I realised that paying attention to detail was very important. The smallest things affect the biggest outcomes.
 
  I also had to look at my own learning style. How did 
+
+ learnt it is important to always save work especially in coding.
+
+ Develop good habits.
+
 
 
 
