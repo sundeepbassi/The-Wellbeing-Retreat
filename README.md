@@ -311,6 +311,8 @@ The ideas for the Font text were considered on the website canva written by Emma
 
 [W3C Web Accessibilty Initiative guidance on images](https://www.w3.org/WAI/tutorials/images/informative/)
 
+In relation to the positioning of items in CSS, one found the video by Deved to be very helpful.  One found the positiong of items to be challenging and one also looked into css tricks  and W3schools to find out how best to position items.
+ [Positioning in CSS](https://www.youtube.com/watch?v=gD3G67oPg-w&t=333s)
 
 
 
