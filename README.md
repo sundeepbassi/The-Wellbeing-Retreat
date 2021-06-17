@@ -82,9 +82,9 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
  
  "fonts help give personality to your design and help you communicate your message through visual cues.
 
- When seeing the Bebas Neue this clearly stood out in its representation as a therupeatic font.
+ When seeing the Bebas Neue this clearly stood out in its representation as a therupeatic font, however it did not appear to be very appealing when tested in google fonts.
 
-Every font has its own personality; whether it's elegant, fun, cool, or relaxed. Read on for four styles of fonts to try in your designs." 
+"Every font has its own personality; whether it's elegant, fun, cool, or relaxed. Read on for four styles of fonts to try in your designs." 
 
 quote taken from Canva written by Poppy Pack.
 
@@ -125,12 +125,7 @@ How to Contrast Background and Foreground Colors in Web Design By Jeremy Girard 
 
 Images taken to help decide best colour scheme for the site regarding background and foreground contrasts.  This was also to ensure that it was useable for people with visual impairments.
 
-
-
-
-
-
-
+ **Background Colour** was set to #bbccff as this gave a nice contrast to the font text that is black.  The font also stood out better with this colour compared to the white background. With the white background it felt cold and sharp whereas with this colour it was warmer and more appealing to the eye.
 
 
  **Landing Page**
@@ -147,7 +142,7 @@ Images taken to help decide best colour scheme for the site regarding background
 
 **No Background image**
 
-I checked the Code Institute recommendation to read the article in the website usersnap.  However I decided that I did not want to put a background image on the site because I felt it may distract the user away from the purpose of the site which is to provide learning and a feeling of tranquility.  The article stated that video, animation and hero backgrounds had become popular.  However I think that although this may be good for some websites that it does not mean that this would be suitable for all websites.  My argument being that every site functions differently according to the service it provides to its users.  Therefore, The Wellbeing Retreats purpose is to provide learning and wellbeing and the simplicity in its style promotes this idea of calmness and wellbeing. I noticed that when I did my research on websites for yoga and meditation that although initially I did find the background images appealing however this distracted me from checking out some of the other elements on the site.
+I checked the Code Institute recommendation to read the article in the website usersnap.  However I decided that I did not want to put a background image on the site because I felt it may distract the user away from the purpose of the site which is to provide learning and a feeling of tranquility.  The article stated that video, animation and hero backgrounds had become popular.  However I think that although this may be good for some websites that it does not mean that this would be suitable for all websites.  My argument being that every site functions differently according to the service it provides to its users.  Therefore, The Wellbeing Retreats purpose is to provide learning and wellbeing and the simplicity in its style promotes this idea of calmness and wellbeing. I noticed that when I did my research on websites for yoga and meditation that although initially I did find the background images appealing however this distracted me from checking out some of the other sections on the site.
 
 
 [OrangeYoga](https://www.orangeyoga.co.uk/)
