@@ -141,6 +141,8 @@ Images taken to help decide best colour scheme for the site regarding background
 
  I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was best to use this F shape as a guide and to place the Navigation at the top left side of the page.
 
+ The navigation menu bar was set to fixed; so that it would be easier for the user to navigate throughout the site, without having to scroll up constantly.
+
  I also decided that I wanted to have the navigation in text form and not in a navigation bar as this may distract from the simplicity and consistency of the site.
 
 **No Background image**
@@ -312,7 +314,8 @@ The ideas for the Font text were considered on the website canva written by Emma
 [W3C Web Accessibilty Initiative guidance on images](https://www.w3.org/WAI/tutorials/images/informative/)
 
 In relation to the positioning of items in CSS, one found the video by Deved to be very helpful.  One found the positiong of items to be challenging and one also looked into css tricks  and W3schools to find out how best to position items.
- [Positioning in CSS](https://www.youtube.com/watch?v=gD3G67oPg-w&t=333s)
+
+[Positioning in CSS](https://www.youtube.com/watch?v=gD3G67oPg-w&t=333s)
 
 
 
