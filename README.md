@@ -263,7 +263,13 @@ To set the font, remove default marging and padding was shown in the Love Runnin
 
 To set the navigation styles was shown in Love Running the Code Institute. 
 
-The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported in resolving issues with images not loading.
+The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported me in resolving issues with images not loading.
+
+Images were taken from Unsplash for the site.
+
+[Unsplash](https://unsplash.com/s/photos/yoga)
+
+The tutor support team at Code Institute guided me to use image resizing sites. I used Iloveimg to resize my images.
 
 To set the h1 element to align to the centre of page was shown in stack overfow.
 
