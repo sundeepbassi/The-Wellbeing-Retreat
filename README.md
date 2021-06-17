@@ -359,7 +359,18 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
 
  Develop good habits.
 
+ Use the wc3 validators for html and css and for javascript. Very useful to identify porblems with code also very good to do regular checks on the code. Tutor support made me realise these are very important tools.
 
+ Diff checker is very good to compare code.
+
+ Prayer is the best.
+
+ I am realising wherever there is a problem there is a solution just ask.
+
+
+**log of issue dealt with**
+
+17 June 2021.  The logo was not resizing,  tutor support guided me in the correct way of checking my code in the validators.  Found main bug in the HTML the bracket by the id=(logo ) had a space stopped logo from resizing.
 
 
 
