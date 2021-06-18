@@ -254,9 +254,13 @@ Web Accessibilty Evaluation Tool
 
 The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough.
 
-To set the font, remove default marging and padding was shown in the Love Running Walkthrough.
+To set the font, remove default margins and padding was shown in the Love Running Walkthrough.
 
 To set the navigation styles was shown in Love Running the Code Institute. I also learnt from deved to fix the navigation menu.
+
+To set the style for the heading and logo was shown in the love running from the code institute.  I also checked on MDN Web docs on how to use the float.
+
+[MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 
 The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported me in resolving issues with images not loading.
 
