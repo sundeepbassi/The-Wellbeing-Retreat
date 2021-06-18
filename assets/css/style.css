@@ -13,7 +13,7 @@ body {
     background-color: #bbccff;
 }
 
-/* headings and logo*/
+/* headings and logo */
 
 h1, h2 {
 font-family: Manjari, sans-serif;
@@ -25,5 +25,11 @@ color: #252525;
 #logo {
     float: left;
     font-size: 280%;
+}
+
+/* navigation links */
+
+#menu {
+    
 }
 
