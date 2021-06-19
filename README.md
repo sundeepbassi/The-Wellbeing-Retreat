@@ -270,6 +270,27 @@ To install the hero image was shown in the love running video from Code Institut
 
 [iStock](https://www.istockphoto.com/photos/buddha-NOT-white-background?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=picjumbo%20%2F%20Viktor%20Hanacek&clickid=Ssb2u:VwnxyLW0W0EOSREQreUkB1ksSNnRyy0g0&utm_term=VMB&utm_campaign=&utm_content=258824&irpid=1982588)
 
+To construct the yoga and meditation sections were shown in the love running video by the Code Institue. However I had to do a sketch on paper, to check how the layout would look like for both the yoga and meditation sections. As I was going to have to split the screen into two sections.  The width was adjusted to 50% so as to make the two sections equal to fit the information.
+
+I also wanted to ensure that both the yoga and meditaion sections were kept consistent in their structures as they would be holding similar questions on the left hand side.
+
+**Left hand side of the screen**
+
+1.What is Yoga/Meditation
+
+2.What are the technique categories with supporting information.
+
+3.A lesson on one of the categories.
+
+**Right hand side of the screen**
+
+1.Images
+
+2.Video
+
+
+
+
 
 
 
