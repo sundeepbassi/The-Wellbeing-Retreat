@@ -262,6 +262,12 @@ To set the style for the heading and logo was shown in the love running from the
 
 [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 
+To set the changes to the navigation were shown in the love running video.  However I added the float left property to the code as I wanted the navigation to be easier for the user to navigate on the left hand side of the screen.
+
+
+
+
+
 The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported me in resolving issues with images not loading.
 
 Images were taken from Unsplash for the site.
