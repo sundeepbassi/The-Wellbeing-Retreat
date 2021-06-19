@@ -262,9 +262,13 @@ To set the style for the heading and logo was shown in the love running from the
 
 [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 
-To set the changes to the navigation were shown in the love running video Code Institute.  However I added the float left property to the code as I wanted the navigation to be easier for the user to navigate on the left hand side of the screen.
+To set the changes to the navigation were shown in the love running video Code Institute.  I did try to set the navigation on the float left setting however it did not fit well with the logo.  
 
 To set the style for navigation links was shown in the love running video Code Institute.
+
+To install the hero image was shown in the love running video from Code Institute. The image was taken from iStock Getty images.
+
+[iStock](https://www.istockphoto.com/photos/buddha-NOT-white-background?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=picjumbo%20%2F%20Viktor%20Hanacek&clickid=Ssb2u:VwnxyLW0W0EOSREQreUkB1ksSNnRyy0g0&utm_term=VMB&utm_campaign=&utm_content=258824&irpid=1982588)
 
 
 
