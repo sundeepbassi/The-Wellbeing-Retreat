@@ -65,6 +65,23 @@ border-bottom: 1px solid #3a3a3a;
     background: url(../images/hero-image.jpg) no-repeat center center;
 }
 
+/* yoga*/
 
+#yoga, #meditation {
+    height: 600px;
+}
 
+#left-about {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: white;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: red;
+}
 
