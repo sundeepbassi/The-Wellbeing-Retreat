@@ -39,7 +39,7 @@ color: #252525;
 }
 
 #menu li {
-    float: left;
+    float: right;
     list-style-type: none;
     margin-right: 30px;
 }
@@ -57,6 +57,13 @@ color: #252525;
 border-bottom: 1px solid #3a3a3a;
 }
    
+/* hero image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-image.jpg) no-repeat center center;
+}
 
 
 
