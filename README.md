@@ -294,7 +294,7 @@ The right side styling and setting of the structure was shown in the love runnin
 
 I added the structure for the left hand side of the meditation structure which was exactly the same as the yoga section and these had been shown on the love running video of the Code Institute.  I could see how both of the structures were the same and this helped to keep the whole site the same and consistent.
 
-
+The right side of the meditation section for the structure and style was shown in the love running video by the Code Institute.  The process was the same as the yoga section and it has kept site the same and consistent.
 
 
 
