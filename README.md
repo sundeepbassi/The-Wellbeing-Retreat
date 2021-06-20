@@ -298,7 +298,7 @@ The right side of the meditation section for the structure and style was shown i
 
 On the 19th of June, I had added and committed information that I had done in the readme.  Checking the next day I noticed that the information had not been added.  I will contact student support and the tutor supprt to check why this has happened.  I do save my work after every peace of work and I do the git add and git commit commands and regularly do a git push to ensure that my work has been sent to github.
 
-The work that I submitted on the 19th of June 2021 was related to the right hand side of of the meditation section and how I had added the stucture and style to the right hand side of the meditation section.  I used the left and right about (id) markers to create to coloured temporary marker blocks to see if the structure was in alignment.  I found that the right had side yoga section was shorter that the left hand side.  I used Google Developer tools to see why both sides were not equally balanced.  I found that the bottom margin was showing 100% on the left and although it was showing 100% on the right for the same input element, it still looked shorter on the right hand side.  I rectified the problem by increasing the right side value to 140%.
+The work that I submitted on the 19th of June 2021 was related to the right hand side of of the meditation section and how I had added the stucture and style to the right hand side of the meditation section.  I used the left and right about (id) markers to create to coloured temporary marker blocks to see if the structure was in alignment.  I found that the right hand side yoga section was shorter that the left hand side.  I used Google Developer tools to see why both sides were not equally balanced.  I found that the bottom margin was showing 100% on the left and although it was showing 100% on the right for the same input element, it still looked shorter on the right hand side.  I rectified the problem by increasing the right side value to 140%.
 
 The sign up section is credited to a video tutorial by "How to create Sign up & Login form with HTML and CSS" | Easy tutorial | By Code Info. 
 
@@ -307,6 +307,8 @@ I also found it useful to watch  "Forms In HTML and CSS | How To Create A Form |
 The submit button was done in tomotoa red, so that the user could see, it is a form to fill in. I also checked on the colour coded chart by Lifewire, Jeremy Girard, to see what was the best text font colour for the submit button, done in tomotoa red.  On the chart, White as a text font colour was considered to be one of the best colours for visilbilty and design.
 
 The addition of the social media icons in the footer was shown the the love running video by the Code Institute.
+
+To style the social networks was taken from the love running video by the Code Institute and the the footer height was set to 300px and the font size was set to 400% so as to enable the icons to appear in line with the rest of the site.
 
 
 
