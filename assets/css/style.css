@@ -83,7 +83,7 @@ border-bottom: 1px solid #3a3a3a;
     padding-top: 30px;
     width: 50%;
     float: right;
-    background-color:;
+    background-color: red;
 }
 
 hr {
@@ -158,10 +158,10 @@ input[type="button"]{
 /* footer */
 
 footer {
-    height: 300px;
+    height: 150px;
 }
 
-.social-networks { 
+.social-networks {
     text-align: center;
 }
 
@@ -170,8 +170,30 @@ footer {
 }
 
 .social-networks i {
-    font-size: 400%;
+    font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* media queries */
+
+/* for larger to medium screen size from 1200px wide and down */
+
+@media screen and {max-width: 1200px; {
+
+    #yoga, #meditation {
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+    }
+#left-about, #right-about {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+hr {
+    display: none;
+}
+}
+    
