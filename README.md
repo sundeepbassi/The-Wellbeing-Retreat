@@ -310,6 +310,10 @@ The addition of the social media icons in the footer was shown the the love runn
 
 To style the social networks was taken from the love running video by the Code Institute and the the footer height was set to 300px and the font size was set to 400% so as to enable the icons to appear in line with the rest of the site.
 
+Adding the styles to the yoga and meditation section, for the media queries for screen sizes below 1200px, was shown in the love running video by Code Institute. I did not have a centre-about so this was not added.
+
+
+
 
 
 
