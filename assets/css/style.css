@@ -75,7 +75,8 @@ border-bottom: 1px solid #3a3a3a;
     padding-top: 30px;
     width: 50%;
     float: left;
-    background-color: white;
+    background-color: ;
+    
 }
 
 #right-about {
@@ -104,4 +105,52 @@ hr {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 140px;
+    margin-bottom: 135px;
+}
+
+/* sign up form */
+
+.signup-box {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: auto
+    background-color: ;
+    border-radius: 3px;
+}
+
+h1 {
+font-size: 200%;
+text-align: none;
+padding-top: 15px;
+}
+
+form {
+    width: 300px;
+    margin-top: 20px;
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input {
+    width: 300px;
+    padding: 7px;
+    border: none;
+    border: 1px solid #3a3a3a;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: tomato;
+    color: white;
+    font-size: 18px;
+}
