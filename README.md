@@ -292,6 +292,10 @@ The left side styling and structure was shown in the love running video by the C
 
 The right side styling and setting of the structure was shown in the love running video by the Code Institute. There were some alignment issues with the right and left not matching up.  I had to adjust the bottom margin of the right side so that they were equal.
 
+I added the structure for the left hand side of the meditation structure which was exactly the same as the yoga section and these had been shown on the love running video of the Code Institute.  I could see how both of the structures were the same and this helped to keep the whole site the same and consistent.
+
+
+
 
 
 
