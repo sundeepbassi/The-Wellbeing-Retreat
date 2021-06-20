@@ -306,6 +306,10 @@ I also found it useful to watch  "Forms In HTML and CSS | How To Create A Form |
 
 The submit button was done in tomotoa red, so that the user could see, it is a form to fill in. I also checked on the colour coded chart by Lifewire, Jeremy Girard, to see what was the best text font colour for the submit button, done in tomotoa red.  On the chart, White as a text font colour was considered to be one of the best colours for visilbilty and design.
 
+The addition of the social media icons in the footer was shown the the love running video by the Code Institute.
+
+
+
 
 
 
