@@ -288,6 +288,8 @@ I also wanted to ensure that both the yoga and meditaion sections were kept cons
 
 2.Video
 
+The left side styling and structure was shown in the love running video by the Code Institute.  I adjusted the margin bottom to 100px so that it could fit better within the section.  I also floated it to the left.
+
 
 
 
