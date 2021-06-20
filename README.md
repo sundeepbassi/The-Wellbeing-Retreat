@@ -300,6 +300,13 @@ On the 19th of June, I had added and committed information that I had done in th
 
 The work that I submitted on the 19th of June 2021 was related to the right hand side of of the meditation section and how I had added the stucture and style to the right hand side of the meditation section.  I used the left and right about (id) markers to create to coloured temporary marker blocks to see if the structure was in alignment.  I found that the right had side yoga section was shorter that the left hand side.  I used Google Developer tools to see why both sides were not equally balanced.  I found that the bottom margin was showing 100% on the left and although it was showing 100% on the right for the same input element, it still looked shorter on the right hand side.  I rectified the problem by increasing the right side value to 140%.
 
+The sign up section is credited to a video tutorial by "How to create Sign up & Login form with HTML and CSS" | Easy tutorial | By Code Info. 
+
+I also found it useful to watch  "Forms In HTML and CSS | How To Create A Form | Learn HTML and CSS | HTML Tutorial | CSS Tutorial" by Dani Krossing, this helped me to understaand how the forms are structured. The submit form was kept simple in line with the rest of the layout for the site.  
+
+The submit button was done in tomotoa red, so that the user could see, it is a form to fill in. I also checked on the colour coded chart by Lifewire, Jeremy Girard, to see what was the best text font colour for the submit button, done in tomotoa red.  On the chart, White as a text font colour was considered to be one of the best colours for visilbilty and design.
+
+
 
 
 
