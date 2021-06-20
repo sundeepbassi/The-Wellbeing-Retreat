@@ -290,11 +290,17 @@ I also wanted to ensure that both the yoga and meditaion sections were kept cons
 
 The left side styling and structure was shown in the love running video by the Code Institute.  I adjusted the margin bottom to 100px so that it could fit better within the section.  I also floated it to the left.
 
-The right side styling and setting of the structure was shown in the love running video by the Code Institute. There were some alignment issues with the right and left not matching up.  I had to adjust the bottom margin of the right side so that they were equal.
+The right side styling and setting of the structure was shown in the love running video by the Code Institute. There were some alignment issues with the right and left not matching up.  I had to adjust the bottom margin of the right side so that they were equal. I checked with the background colour blocks on the left about and right about id elements. These othat had been placed on the screen as a temporat
 
 I added the structure for the left hand side of the meditation structure which was exactly the same as the yoga section and these had been shown on the love running video of the Code Institute.  I could see how both of the structures were the same and this helped to keep the whole site the same and consistent.
 
 The right side of the meditation section for the structure and style was shown in the love running video by the Code Institute.  The process was the same as the yoga section and it has kept site the same and consistent.
+
+On the 19th of June, I had added and committed information that I had done in the readme.  Checking the next day I noticed that the information had not been added.  I will contact student support and the tutor supprt to check why this has happened.  I do save my work after every peace of work and I do the git add and git commit commands and regularly do a git push to ensure that my work has been sent to github.
+
+The work that I submitted on the 19th of June 2021 was related to the right hand side of of the meditation section and how I had added the stucture and style to the right hand side of the meditation section.  I used the left and right about (id) markers to create to coloured temporary marker blocks to see if the structure was in alignment.  I found that the right had side yoga section was shorter that the left hand side.  I used Google Developer tools to see why both sides were not equally balanced.  I found that the bottom margin was showing 100% on the left and although it was showing 100% on the right for the same input element, it still looked shorter on the right hand side.  I rectified the problem by increasing the right side value to 140%.
+
+
 
 
 
