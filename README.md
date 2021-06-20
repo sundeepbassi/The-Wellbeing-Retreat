@@ -312,6 +312,7 @@ To style the social networks was taken from the love running video by the Code I
 
 Adding the styles to the yoga and meditation section, for the media queries for screen sizes below 1200px, was shown in the love running video by Code Institute. I did not have a centre-about so this was not added.
 
+style setting for media queries below 950px was shown in the love running video by the Code Institute.
 
 
 
