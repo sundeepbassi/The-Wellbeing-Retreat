@@ -76,7 +76,7 @@ border-bottom: 1px solid #3a3a3a;
     padding-top: 30px;
     width: 50%;
     float: left;
-    background-color: ;
+    
     
 }
 
@@ -84,7 +84,11 @@ border-bottom: 1px solid #3a3a3a;
     padding-top: 30px;
     width: 50%;
     float: right;
-    background-color: ;
+}
+
+#med-img {
+    background: url(../images/meditate-image.jpg) no-repeat center center;
+    height: 100%;
 }
 
 hr {
@@ -115,14 +119,12 @@ hr {
     width: 400px;
     height: 400px;
     margin: auto;
-    margin-top: auto
-    background-color: ;
+    margin-top: auto;
     border-radius: 3px;
 }
 
 h1 {
 font-size: 200%;
-text-align: none;
 padding-top: 15px;
 }
 
@@ -181,7 +183,7 @@ footer {
 
 /* for larger to medium screen size from 1200px wide and down */
 
-@media screen and {max-width: 1200px; {
+@media screen and (max-width: 1200px) {
 
 #yoga, #meditation {
     width: 65%;
@@ -200,11 +202,11 @@ hr {
 
 /* for media screen sizes from 950px wide and down */
 
-@media screen and {max-width: 950px; {
+@media screen and (max-width: 950px) {
 
 #menu {
-    clear: left:;
-    float: :left;
+    clear: left;
+    float: left;
     margin-left: 30px;
     margin-bottom: 20px;
     line-height: 25px;
@@ -221,15 +223,10 @@ hr {
     width: 100%;
     text-align: center;
 }
-.left-about-heading p, .right-about-heading p{
+.left-about-heading p, .right-about-heading p {
     text-align: center;
     padding: 0 20px;
 }
 }
 
-#copyright {
-    position: absolute;
-    margin-left: 400px;
-}
     
- 
