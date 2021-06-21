@@ -69,6 +69,7 @@ border-bottom: 1px solid #3a3a3a;
 
 #yoga, #meditation {
     height: 600px;
+    margin-left: 150px;
 }
 
 #left-about {
@@ -226,4 +227,9 @@ hr {
 }
 }
 
+#copyright {
+    position: absolute;
+    margin-left: 400px;
+}
     
+ 

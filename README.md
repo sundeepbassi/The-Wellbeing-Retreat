@@ -316,6 +316,15 @@ style setting for media queries below 950px was shown in the love running video 
 
 Adding styles to the yoga and meditation sections for mobile screens was shown on love running from the Code Institute.
 
+The method to make inernal links work correctly was found in the LMS of the Code institute.
+
+I placed the copyright section myself and used a div with a id="copyright" to set it up.
+
+copyright information was found on the website termly.
+
+[Termly](https://termly.io/resources/articles/copyright-examples/)
+
+
 
 
 
