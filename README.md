@@ -314,6 +314,8 @@ Adding the styles to the yoga and meditation section, for the media queries for 
 
 style setting for media queries below 950px was shown in the love running video by the Code Institute.
 
+Adding styles to the yoga and meditation sections for mobile screens was shown on love running from the Code Institute.
+
 
 
 
