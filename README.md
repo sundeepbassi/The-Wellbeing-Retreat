@@ -330,6 +330,7 @@ Lifewire is part of the Dotdash publishing family.Christine Baker.
 
 [Lifewire](https://www.lifewire.com/copyright-symbol-on-windows-and-mac-2688246)
 
+Changed left margin settings for better appearance.
 
 
 
