@@ -324,6 +324,15 @@ copyright information was found on the website termly.
 
 [Termly](https://termly.io/resources/articles/copyright-examples/)
 
+On how to install a copyright symbol article below.
+
+Lifewire is part of the Dotdash publishing family.Christine Baker.
+
+[Lifewire](https://www.lifewire.com/copyright-symbol-on-windows-and-mac-2688246)
+
+
+
+
 
 
 
