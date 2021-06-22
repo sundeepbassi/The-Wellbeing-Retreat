@@ -158,19 +158,16 @@ Web Development
 
  **The Wellbeing retreat**
 
-This main header I want to put in the upper centre part of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
+This main header I want to put on the right top side of the of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
 
 **The Statement**
 
-The statement under the heading is to welcome users onto the site as one is welcomed into a shop or restaurant.  Assuring the user that they are valued in this process.
+Initially my plan was to have a statement on the landing page but then I decided that keeping the site simple added to its effectiveness.  The main image of Lord Buddha the main title and the navigation menu indicated that this was a place to learn yoga and meditation.
 
  **The Images on the Landing Page**
 
-I decided to add two images here.
+I initially thought about adding two images one for yoga and one for meditation but then I realised that one central image gave the landing page a focus.
 
-One will be a Yoga image.
-
-Second one will be a meditation image.
 
 The reason I decided to do this is because the aim is to develop a body/mind self-improvement techniques. Thereby each image will be a representation of the body (a yoga pose) and the mind (someone sitting in meditation)
  
@@ -220,13 +217,11 @@ Surname and and input box.
 
 Email and and input box.
 
-A textarea for a user to submit a question or leave information.
-
 A submit button.
 
  **The Footer Section**
 
-The footer will include icons for Twitter, facebook and instagram. 
+The footer will include icons for Twitter, facebook, instagram and Youtube. 
 
 There will be copyright information at the bottom.
 
@@ -236,7 +231,7 @@ Again I do not want to put the footer in different coloured area as I feel this 
 
 I am thinking it would be good to have a section for teachers in the future.  There could also be a place to list a timetable of classes.  
 
-I think with covid it has high lighted the importance of social distancing and conducting classes over the web through zomm could be a good idea.
+I think with covid it has highlighted the importance of social distancing and conducting classes over the web through other media technologies such as zomm could be a good idea.
 
  **Testing**
 
@@ -245,6 +240,15 @@ Web Accessibilty Evaluation Tool
  [Wave](https://wave.webaim.org/)
 
  **Validator Testing**
+I did a number of validator tests and the main problem that needed to be dealt with was an error with the syntax to do with id.  in the code the validator showed me that there were duplicate id's being listed.  I removed the id's but then the right bottom side of the page became misaligned.
+
+On the 19th of June, I had added and committed information that I had done in the readme.  Checking the next day I noticed that the information had not been added.  I will contact student support and the tutor supprt to check why this has happened.  I do save my work after every peace of work and I do the git add and git commit commands and regularly do a git push to ensure that my work has been sent to github.
+
+The work that I submitted on the 19th of June 2021 was related to the right hand side of of the meditation section and how I had added the stucture and style to the right hand side of the meditation section.  I used the left and right about (id) markers to create to coloured temporary marker blocks to see if the structure was in alignment.  I found that the right hand side yoga section was shorter that the left hand side.  I used Google Developer tools to see why both sides were not equally balanced.  I found that the bottom margin was showing 100% on the left and although it was showing 100% on the right for the same input element, it still looked shorter on the right hand side.  I rectified the problem by increasing the right side value to 140%.
+
+17 June 2021.  The logo was not resizing,  tutor support guided me in the correct way of checking my code in the validators.  Found main bug in the HTML the bracket by the id=(logo ) had a space stopped logo from resizing.
+
+
 
  **|Unfixed Bugs**
 
@@ -296,9 +300,7 @@ I added the structure for the left hand side of the meditation structure which w
 
 The right side of the meditation section for the structure and style was shown in the love running video by the Code Institute.  The process was the same as the yoga section and it has kept site the same and consistent.
 
-On the 19th of June, I had added and committed information that I had done in the readme.  Checking the next day I noticed that the information had not been added.  I will contact student support and the tutor supprt to check why this has happened.  I do save my work after every peace of work and I do the git add and git commit commands and regularly do a git push to ensure that my work has been sent to github.
 
-The work that I submitted on the 19th of June 2021 was related to the right hand side of of the meditation section and how I had added the stucture and style to the right hand side of the meditation section.  I used the left and right about (id) markers to create to coloured temporary marker blocks to see if the structure was in alignment.  I found that the right hand side yoga section was shorter that the left hand side.  I used Google Developer tools to see why both sides were not equally balanced.  I found that the bottom margin was showing 100% on the left and although it was showing 100% on the right for the same input element, it still looked shorter on the right hand side.  I rectified the problem by increasing the right side value to 140%.
 
 The sign up section is credited to a video tutorial by "How to create Sign up & Login form with HTML and CSS" | Easy tutorial | By Code Info. 
 
@@ -331,23 +333,6 @@ Lifewire is part of the Dotdash publishing family.Christine Baker.
 [Lifewire](https://www.lifewire.com/copyright-symbol-on-windows-and-mac-2688246)
 
 Changed left margin settings for better appearance.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported me in resolving issues with images not loading.
 
@@ -418,11 +403,19 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
  **Other General Project Advice**
  
  **Reflective Learning Log**
+I kept a reflective learning log so as to understand my own style of learning and what worked for me.  
 
+I learnt that coding can be challenging and rewarding.
+
+I learnt to keep things simple because then they are more effective.
+
+I learnt that I will make mistakes and I have an opportuniy to learn from these mistakes.
+
+I learnt that it is best to check the code on the validators regularly as it will highlight problems.
+
+I learnt that I never stop learning.
 
 **log of issue dealt with**
-
-17 June 2021.  The logo was not resizing,  tutor support guided me in the correct way of checking my code in the validators.  Found main bug in the HTML the bracket by the id=(logo ) had a space stopped logo from resizing.
 
 
 
