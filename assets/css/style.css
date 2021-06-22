@@ -75,12 +75,25 @@ border-bottom: 1px solid #3a3a3a;
 #left-about {
     padding-top: 30px;
     width: 50%;
-    float: left;
-    
+    float: left;   
     
 }
 
 #right-about {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
+
+#left-about-med {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+      
+}
+
+#right-about-med {
     padding-top: 30px;
     width: 50%;
     float: right;
