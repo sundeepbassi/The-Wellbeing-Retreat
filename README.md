@@ -248,7 +248,7 @@ The work that I submitted on the 19th of June 2021 was related to the right hand
 
 17 June 2021.  The logo was not resizing,  tutor support guided me in the correct way of checking my code in the validators.  Found main bug in the HTML the bracket by the id=(logo ) had a space stopped logo from resizing.
 
-
+On the 22nd of June I could not upload an image and was guided by tutor support to do a validator check and a number of errors were shown. After removing the errors the page became misaligned. The problem was located in the id property and there were duplicate copies in the HTML.  I found the solution by relabelling the duplicate id tags and it resolved the problem.
 
  **|Unfixed Bugs**
 
