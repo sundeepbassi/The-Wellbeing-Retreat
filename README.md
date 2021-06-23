@@ -396,7 +396,9 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
 
 
 
+
  **content**
+information about yoga was taken from an article in the New York Times [new york times}(https://www.nytimes.com/guides/well/beginner-yoga)
 
  **Media**
 
