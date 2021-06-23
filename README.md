@@ -183,7 +183,7 @@ This main header I want to put on the right top side of the of the landing page 
 
 **The Statement**
 
-Initially my plan was to have a statement on the landing page but then I decided that keeping the site simple added to its effectiveness.  The main image of Lord Buddha the main title and the navigation menu indicated that this was a place to learn yoga and meditation.
+Initially my plan was to have a statement on the landing page but then I decided that keeping the site simple added to its effectiveness.  The main image of Lord Buddha, the main title and the navigation menu indicated that this was a place to learn about the self-improvement techniques yoga and meditation.
 
  **The Images on the Landing Page**
 
@@ -246,15 +246,36 @@ The footer will include icons for Twitter, facebook, instagram and Youtube.
 
 There will be copyright information at the bottom.
 
-Again I do not want to put the footer in different coloured area as I feel this may distract from the overall theme of the site.
+Again I do not want to put the footer ina different coloured area as I feel this may distract from the overall theme of the site.
 
  **Features Left to Implement**
 
-I am thinking it would be good to have a section for teachers in the future.  There could also be a place to list a timetable of classes.  
+I am thinking it would be good to have a section for teachers in the future.  
+
+There could also be a place to list a timetable of classes.  
 
 I think with covid it has highlighted the importance of social distancing and conducting classes over the web through other media technologies such as zomm could be a good idea.
 
  **Testing**
+**User Stories"
+
+1. As a user want to know that I have come to a site about self-improvement techniques.
++
+
+2. As a user I want to be able to easily navigate around 
+the site.
+
+3. As a user I want to know what is yoga/meditaion?
+
+4. As a user I want to have a list about the different types of yoga/meditation.
+
+5. As a user I want to do a lesson on yoga/meditation.
+
+6. As a user I want to have a meditation image.
+
+7. As a user I want to be able to leave my submit my first name, surname and email.
+
+8. As a user I want to be able to use social media icons.
 
 Web Accessibilty Evaluation Tool
 
