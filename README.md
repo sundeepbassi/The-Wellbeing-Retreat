@@ -2,7 +2,28 @@
  
  This project hopes to accomplish delivering lesson techniques on yoga and meditation to the users. Wellbeing has become an integral part of our lives. increasingly a work life balance enables us into living happier and fuller lives.
 
-## User Experience Design
+**UX**
+
+**User Stories"
+
+1. As a user want to know that I have come to a site about self-improvement techniques.
+
+2. As a user I want to be able to easily navigate around 
+the site.
+
+3. As a user I want to know what is yoga/meditaion?
+
+4. As a user I want to have a list about the different types of yoga/meditation.
+
+5. As a user I want to do a lesson on yoga/meditation.
+
+6. As a user I want to have a meditation image.
+
+7. As a user I want to be able to leave my submit my first name, surname and email.
+
+8. As a user I want to be able to use social media icons.
+
+
 
 
 **The Goals of the user**
@@ -240,6 +261,7 @@ Web Accessibilty Evaluation Tool
  [Wave](https://wave.webaim.org/)
 
  **Validator Testing**
+
 I did a number of validator tests and the main problem that needed to be dealt with was an error with the syntax to do with id.  in the code the validator showed me that there were duplicate id's being listed.  I removed the id's but then the right bottom side of the page became misaligned.
 
 On the 19th of June, I had added and committed information that I had done in the readme.  Checking the next day I noticed that the information had not been added.  I will contact student support and the tutor supprt to check why this has happened.  I do save my work after every peace of work and I do the git add and git commit commands and regularly do a git push to ensure that my work has been sent to github.
@@ -356,7 +378,9 @@ About Manjari
 
 Manjari is a Malayalam and Latin family whose name means pearl in Malayalam. It's also the name of a poetic metre. This family is suitable for body text and titles.
 
-To contribute, see github.com/smc/manjari
+To contribute, see 
+
+github.com/smc/manjari
 
 Designer
 Avatar of the designer
@@ -365,6 +389,8 @@ Santhosh Thottingal
 Principal design
 
 Santhosh Thottingal is a typeface designer and a software engineer from India. He is an active contributor of Swathanthra Malayalam Computing organization and has designed popular Malayalam typefaces like Manjari and Chilanka.
+
+Link below is Santhosh personal page.
 
 thottingal.in/
 
@@ -400,11 +426,20 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
  **content**
 information about yoga was taken from an article in the New York Times 
 
-[new york times}(https://www.nytimes.com/guides/well/beginner-yoga)
+[New York Times](https://www.nytimes.com/guides/well/beginner-yoga)
 
 History of Yoga was found in a page on HFC website A Brief History of Yoga. 
 
 [A Brief History of Yoga](https://www.hfe.co.uk/yoga/careers/a-brief-history-of-yoga/)
+
+Information about meditation was shown n from wikipedia.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Meditation)
+
+Types of Meditation shown in healthline.
+
+[healthline](https://www.healthline.com/health/mental-health/types-of-meditation)
+
 
  **Media**
 
