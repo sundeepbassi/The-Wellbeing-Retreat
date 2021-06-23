@@ -398,7 +398,13 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
 
 
  **content**
-information about yoga was taken from an article in the New York Times [new york times}(https://www.nytimes.com/guides/well/beginner-yoga)
+information about yoga was taken from an article in the New York Times 
+
+[new york times}(https://www.nytimes.com/guides/well/beginner-yoga)
+
+History of Yoga was found in a page on HFC website A Brief History of Yoga. 
+
+[A Brief History of Yoga](https://www.hfe.co.uk/yoga/careers/a-brief-history-of-yoga/)
 
  **Media**
 
