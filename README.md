@@ -6,16 +6,16 @@
 
 **User Stories"
 
-1. As a user want to know that I have come to a site about self-improvement techniques.
+1. As a user i want to know that I have come to a site about self-improvement techniques mainly yoga and meditation.
 
 2. As a user I want to be able to easily navigate around 
 the site.
 
-3. As a user I want to know what is yoga/meditaion?
+3. As a user I want to know what is yoga and meditaion?
 
-4. As a user I want to have a list about the different types of yoga/meditation.
+4. As a user I want to have a list about the different types of yoga and meditation.
 
-5. As a user I want to do a lesson on yoga/meditation.
+5. As a user I want to do a lesson on yoga and meditation.
 
 6. As a user I want to see yoga and  meditation images.
 
@@ -38,7 +38,7 @@ the site.
 2. To give the user an opportunity to learn about self-improvement techniques.
 3. To promote the benefits of yoga and meditation.
 4. To reach out to a wider audience that have not considered yoga and meditation before.
-5. To enable the user to learn some skills in yoga and meditation.
+5. To enable the user to learn some skills about yoga and meditation.
 
 **Strategy**
 
@@ -74,7 +74,7 @@ the site.
 
  **The skeletal** 
 
-In the skeletal process I first all did my basic plan on paper with an outline of how the site would be structured.
+In the skeletal process I first of all did my basic plan on paper with an outline of how the site would be structured.
 
 Then I used Balsamique to do a basic wireframe which i presented to my mentor and he recommended that I redo the wireframe so as to show better consistency and layout for the site. I appreciated his advice and I did an update of that wireframe.  As I was using Balsamique for the first time I had to get used to the functions.
 
@@ -97,7 +97,7 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
  One wanted to find typoghraphy and fonts that were both professional and had an aesthetic appeal. The Canva website showcased a number of fonts that created a good impression to the user.
 
- [canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
+ [Canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
 
  In another aricle on canva on how different fonts speak to you. There was a statement about how 
  
@@ -185,16 +185,13 @@ This main header I want to put on the right top side of the of the landing page 
 
 I decided to add a statememt under the landing page image to welcome users onto the site.
 
- **The Images on the Landing Page**
+ **The Image on the Landing Page**
 
 I initially thought about adding two images one for yoga and one for meditation but then I realised that one central image gave the landing page a focus.
-
-
-The reason I decided to do this is because the aim is to develop a body/mind self-improvement techniques. Thereby each image will be a representation of the body (a yoga pose) and the mind (someone sitting in meditation)
  
  **Yoga/Meditation**
 
- I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore their layout should be similar,simple and effective.  I decided putting both the Yoga and Meditation content next to each other was a good display to the user the relevant information that they were looing for.  It also enabled the user to have a choice in what would be of interest to them.
+ I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore the  layout should be similar,simple and effective.  I decided putting both the Yoga and Meditation content next to each other was a good display for the user.  It also enabled the user to have a choice in what would be of interest to them.
 
  **The Yoga Section**
 
@@ -239,6 +236,8 @@ The footer will include icons for Twitter, facebook, instagram and Youtube.
 There will be copyright information at the bottom.
 
 Again I do not want to put the footer ina different coloured area as I feel this may distract from the overall theme of the site.
+
+I noticed that the sign up red submit button was being pressed tbat the social media icons opened up.  I used google developer tools to check what was going on and I noticed the both the social media and the sign up submit button overlapped.  I rectified this by adding margin-top: 100px; to the footer section and it rectified the problem.
 
  **Features Left to Implement**
 
