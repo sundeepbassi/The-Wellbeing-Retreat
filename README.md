@@ -241,7 +241,8 @@ I noticed that the sign up red submit button was being pressed tbat the social m
 
  **Features Left to Implement**
 
-I am thinking it would be good to have a section for teachers in the future.  
+I am thinking it would be good to have a section for teachers in the future.  Whereby teachers could have an information page about themselves and contact information.
+
 
 There could also be a place to list a timetable of classes.  
 
