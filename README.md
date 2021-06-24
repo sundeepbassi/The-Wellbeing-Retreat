@@ -342,7 +342,7 @@ The right side of the meditation section for the structure and style was shown i
 
 I had to adjust the bottom height of right about heading class because it was out of alignment with the left side heading class.
 
-The right about heading bottom right was increased to 150px to help it sit better with the left hand side.
+The right about heading bottom right was increased to 150px to help it sit better with the left hand si
 
 
 
