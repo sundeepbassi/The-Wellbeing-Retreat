@@ -322,6 +322,11 @@ I also wanted to ensure that both the yoga and meditaion sections were kept cons
 3.A lesson on one of the categories.
 
 **Right hand side of the screen**
+1.What is Yoga/Meditation
+
+2.What are the technique categories with supporting information.
+
+3.A lesson on one of the categories.
 
 1.Images
 
@@ -334,6 +339,8 @@ The right side styling and setting of the structure was shown in the love runnin
 I added the structure for the left hand side of the meditation structure which was exactly the same as the yoga section and these had been shown on the love running video of the Code Institute.  I could see how both of the structures were the same and this helped to keep the whole site the same and consistent.
 
 The right side of the meditation section for the structure and style was shown in the love running video by the Code Institute.  The process was the same as the yoga section and it has kept site the same and consistent.
+
+I had to adjust the bottom height of right about heading class because it was out of alignment with the left side heading class.
 
 
 
