@@ -70,14 +70,14 @@ border-bottom: 1px solid #3a3a3a;
 #yoga, #meditation {
     height: 600px;
     margin-left: 150px;
-    ;
+   
 }
 
 #left-about {
     padding-top: 30px;
     width: 50%;
     float: left; 
-    margin-bottom: ;  
+    
     
 }
 
@@ -124,7 +124,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 122px;
-    margin-right: 50px;
+    margin-right: 150px;
 }
 
 /* sign up form */
