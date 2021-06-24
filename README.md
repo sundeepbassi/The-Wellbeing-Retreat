@@ -17,9 +17,9 @@ the site.
 
 5. As a user I want to do a lesson on yoga/meditation.
 
-6. As a user I want to have a meditation image.
+6. As a user I want to see yoga and  meditation images.
 
-7. As a user I want to be able to leave my submit my first name, surname and email.
+7. As a user I want to be able to submit my first name, surname and email.
 
 8. As a user I want to be able to use social media icons.
 
@@ -183,7 +183,7 @@ This main header I want to put on the right top side of the of the landing page 
 
 **The Statement**
 
-Initially my plan was to have a statement on the landing page but then I decided that keeping the site simple added to its effectiveness.  The main image of Lord Buddha, the main title and the navigation menu indicated that this was a place to learn about the self-improvement techniques yoga and meditation.
+I decided to add a statememt under the landing page image to welcome users onto the site.
 
  **The Images on the Landing Page**
 
@@ -194,13 +194,11 @@ The reason I decided to do this is because the aim is to develop a body/mind sel
  
  **Yoga/Meditation**
 
- I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore their layout should be similar,simple and effective.
+ I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore their layout should be similar,simple and effective.  I decided putting both the Yoga and Meditation content next to each other was a good display to the user the relevant information that they were looing for.  It also enabled the user to have a choice in what would be of interest to them.
 
  **The Yoga Section**
 
-What is Yoga?
-
-Where did it originate?
+What is Yoga? /Where did it originate?
 
 What are the techniques?
 
@@ -208,15 +206,11 @@ List the techniques
 
 There will be a lesson on how to do one of the techniques.
 
-There will be an image to compliment that technique.
 
-There will be a video on how to do the technique.
 
  **The Meditation Section**
 
-What is Meditation?
-
-Where did it originate
+What is Meditation? /Where did it originate
 
 What are the techniques?
 
@@ -224,9 +218,7 @@ List the techniques.
 
 There will be a lesson on how to do one of the techniques.
 
-There be an image to compliment that technique.
 
-There will be a video on how to do the technique.
 
  **Sign up Section**
 
@@ -259,7 +251,7 @@ I think with covid it has highlighted the importance of social distancing and co
  **Testing**
 **User Stories"
 
-1. As a user want to know that I have come to a site about self-improvement techniques.
+1. As a user i want to know that I have come to a site about self-improvement techniques.
 +
 
 2. As a user I want to be able to easily navigate around 
