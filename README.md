@@ -285,6 +285,22 @@ The work that I submitted on the 19th of June 2021 was related to the right hand
 
 On the 22nd of June I could not upload an image and was guided by tutor support to do a validator check and a number of errors were shown. After removing the errors the page became misaligned. The problem was located in the id property and there were duplicate copies in the HTML.  I found the solution by relabelling the duplicate id tags and it resolved the problem.
 
+I checked the requirements listed from the assessment team in an email that was sent out to us and can be read below.
+
+"Hi Sundeep, 
+
+Did you know that one of the most common causes of a failing project is invalid code?  It is, however, also one of the most easily avoided failures as the code validators you learned about in the LMS can check your code and highlight any errors. 
+
+When validating your code, it is important to remember to check all the files in your project and to check that your project works on multiple browsers and screen sizes. The validators allow you to check the project URLs, upload the files or even paste in the code. A passing project needs error-free code, but warnings are acceptable. If you are aiming for a high grade and time permits, then consider acting on the warnings too. 
+
+Remember to document any errors you found and how you fixed them in the README testing write-up.  You should also check that all of your user stories are satisfied and include a screenshot in the README to show what that looks like in your application.
+
+If you have reused code from the course or elsewhere in your project, be sure to include a comment to attribute this, so the assessor knows not to assess it. 
+
+Best of luck," Email sent by student care 10th June 2021
+
+I did the two validator checks for CSS and HTML one with the url and one with the direct input.  The results were different when using the url input and when I did the direct input test both the CSS and the HTML passed. I contacted the tutor support team and they advised me that the direct input would be the best one to do and record.  The tutor support also advised me to mention this within my readme with the different results.  I know that I have removed all the previous errors that were found and when I reinputted my code into the W3c validator checks with the direct input both my CSS and the HTML passed.
+
  **|Unfixed Bugs**
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
 
