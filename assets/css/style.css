@@ -127,6 +127,33 @@ hr {
     margin-right: 150px;
 }
 
+/* images and video */
+
+/* images */
+
+#image {
+
+
+}
+
+
+#yoga-img {
+ 
+    height: 400px;
+    width: 100%;
+    background: url(../images/yoga-image.jpg) no-repeat center center;
+}
+
+#med-img {
+
+    height: 400px;
+    width: 100%;
+    background: url(../images/meditate-image.jpg) no-repeat center center;
+
+}
+
+
+
 /* sign up form */
 
 .signup-box {
