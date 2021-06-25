@@ -286,6 +286,7 @@ The work that I submitted on the 19th of June 2021 was related to the right hand
 On the 22nd of June I could not upload an image and was guided by tutor support to do a validator check and a number of errors were shown. After removing the errors the page became misaligned. The problem was located in the id property and there were duplicate copies in the HTML.  I found the solution by relabelling the duplicate id tags and it resolved the problem.
 
  **|Unfixed Bugs**
+I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
 
  **Deployment**
 
