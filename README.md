@@ -161,6 +161,8 @@ Images taken to help decide best colour scheme for the site regarding background
 
  I also decided that I wanted to have the navigation in text form and not in a navigation bar as this may distract from the simplicity and consistency of the site.
 
+ As the layout hadf been changed and the yoga and meditation information would be set next to each other, the navigation links also had to be changed.  The meditation link was not working with this change so the best thing to do was add the id yoga to the meditation link and it worked perfectly.
+
 **No Background image**
 
 I checked the Code Institute recommendation to read the article in the website usersnap.  However I decided that I did not want to put a background image on the site because I felt it may distract the user away from the purpose of the site which is to provide learning and a feeling of tranquility.  The article stated that video, animation and hero backgrounds had become popular.  However I think that although this may be good for some websites that it does not mean that this would be suitable for all websites.  My argument being that every site functions differently according to the service it provides to its users.  Therefore, The Wellbeing Retreats purpose is to provide learning and wellbeing and the simplicity in its style promotes this idea of calmness and wellbeing. I noticed that when I did my research on websites for yoga and meditation that although initially I did find the background images appealing however this distracted me from checking out some of the other sections on the site.
