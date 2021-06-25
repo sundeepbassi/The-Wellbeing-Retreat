@@ -215,6 +215,14 @@ List the techniques.
 
 There will be a lesson on how to do one of the techniques.
 
+**Images section**
+
+I added two images here:
+(1) First is a group of people doing yoga.
+
+(2) Second is a group of people doing meditation.
+
+I decided not to do a gallery of images as I did not want it to look too cluttered for the user, I felt it may distract from the simpleness and effectiveness of the design. The two images also were in centre position like the landing page image. There was a consistency and flow about the structure of the site.
 
 
  **Sign up Section**
