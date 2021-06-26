@@ -238,6 +238,21 @@ I added two images here:
 
 I decided not to do a gallery of images as I did not want it to look too cluttered for the user, I felt it may distract from the simpleness and effectiveness of the design. The two images also were in centre position like the landing page image. There was a consistency and flow about the structure of the site. I used the code from the hero image section that I had followed in the love running video from the Code Institute.
 
+**video**
+
+I added two videos for the users to follow and have an experience with trying to do yoga or meditation.
+
+(1) A yoga Video about 3 Simple Yoga Exercises by sharp healthcare on youtube.
+
+[A Yoga video](https://www.youtube.com/watch?v=lBVfzkhAlt0)
+
+
+(2) A meditation video for beginners, from BEGINNER'S GUIDE TO MEDITATION » for a positive & productive day (part 1) from Pick Up Limes on you tube.
+
+[A Meditation Video](https://www.youtube.com/watch?v=KQOAVZew5l8&t=183s)
+
+The tutor support team and Igor guided me on how to embed the videos from you tube as the format was different and I could not use the video tags.
+
 
  **Sign up Section**
 
