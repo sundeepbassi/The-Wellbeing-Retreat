@@ -237,6 +237,8 @@ I decided not to do a gallery of images as I did not want it to look too clutter
 
 **video**
 
+An update, after careful consideration the two videos were removed because when I ran a validator check on W3C for both the HTML and CSS errors came up regarding the embedding of the videos.  The tutors had kindly shown me how to install the videos and they worked but I was concerned about how this would affect the project with errors from the validators.
+
 I added two videos for the users to follow and have an experience with trying to do yoga or meditation.
 
 (1) A yoga Video about 3 Simple Yoga Exercises by sharp healthcare on youtube.
