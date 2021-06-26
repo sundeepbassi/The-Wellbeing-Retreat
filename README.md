@@ -80,7 +80,7 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
 [Firstwireframe](assets/docs/wireframes/first-wireframe.png)
 
-[Secondwireframe](assets/images/second-wireframe.png)
+[Secondwireframe](assets/docs/wireframes/second-wireframe.png)
 
 [Thirdwireframe](assets/images/third-wireframe-3a.png)
 
