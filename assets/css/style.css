@@ -131,11 +131,11 @@ hr {
 
 /* images */
 
-image { position: absolute;
+.images { 
          margin-left: 400px;
 
-
 }
+
 
 
 #yoga-img {
