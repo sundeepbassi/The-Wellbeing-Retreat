@@ -78,6 +78,18 @@ In the skeletal process I first of all did my basic plan on paper with an outlin
 
 Then I used Balsamique to do a basic wireframe which i presented to my mentor and he recommended that I redo the wireframe so as to show better consistency and layout for the site. I appreciated his advice and I did an update of that wireframe.  As I was using Balsamique for the first time I had to get used to the functions.
 
+[Firstwireframe](assets/images/first-wireframe.png)
+
+[Secondwireframe](assets/images/second-wireframe.png)
+
+[Thirdwireframe](assets/images/third-wireframe-3a.png)
+
+
+
+
+
+
+
 
  **The surface** 
 
