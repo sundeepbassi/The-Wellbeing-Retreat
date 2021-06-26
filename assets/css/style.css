@@ -131,7 +131,8 @@ hr {
 
 /* images */
 
-#image {
+image { position: absolute;
+         margin-left: 400px;
 
 
 }
