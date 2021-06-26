@@ -82,14 +82,9 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
 [Secondwireframe](assets/docs/wireframes/second-wireframe.png)
 
-[Thirdwireframe](assets/images/third-wireframe-3a.png)
+[Thirdwireframe](assets/docs/wireframes/third-wireframe-3a.png)
 
-
-
-
-
-
-
+I was shown by tutor support how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
 
  **The surface** 
 
