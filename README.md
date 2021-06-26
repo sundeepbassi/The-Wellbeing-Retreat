@@ -168,7 +168,9 @@ Images taken to help decide best colour scheme for the site regarding background
 
  I also decided that I wanted to have the navigation in text form and not in a navigation bar as this may distract from the simplicity and consistency of the site.
 
- As the layout hadf been changed and the yoga and meditation information would be set next to each other, the navigation links also had to be changed.  The meditation link was not working with this change so the best thing to do was add the id yoga to the meditation link and it worked perfectly.
+ As the layout had been changed and the yoga and meditation information would be set next to each other, the navigation links also had to be changed.  The meditation link was not working with this change so the best thing to do was add the id yoga to the meditation link and it worked perfectly.
+
+ An extra link was created for the Images in the navigation menu for the user to access the images and videos.
 
 **No Background image**
 
