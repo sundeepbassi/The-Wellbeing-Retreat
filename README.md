@@ -139,6 +139,10 @@ The next step was to see how font colours contrasted with the background colours
 
 How to Contrast Background and Foreground Colors in Web Design By Jeremy Girard on the ThoughtCo. Website. 
 
+I used the colour chart below to check best colours for visibilty. Jeremy Girard on Thoughtco.
+
+[Colour Chart](assets/images/colour-chart.png)
+
 [Contrasting Colours](https://www.thoughtco.com/contrasting-foreground-background-colors-4061363)
 
 [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
@@ -235,11 +239,11 @@ I added two images here:
 
 I decided not to do a gallery of images as I did not want it to look too cluttered for the user, I felt it may distract from the simpleness and effectiveness of the design. The two images also were in centre position like the landing page image. There was a consistency and flow about the structure of the site. I used the code from the hero image section that I had followed in the love running video from the Code Institute.
 
-**video**
+**No Video**
 
-An update, after careful consideration the two videos were removed because when I ran a validator check on W3C for both the HTML and CSS errors came up regarding the embedding of the videos.  The tutors had kindly shown me how to install the videos and they worked but I was concerned about how this would affect the project with errors from the validators.
+An update, after careful consideration the two videos were removed because when I ran a validator check on W3C for both the HTML and CSS errors came up regarding the embedding of the videos.  The tutors had kindly shown me how to install the videos from the you tube format and they worked but I was concerned about how this would affect the project with errors from the validators.
 
-I added two videos for the users to follow and have an experience with trying to do yoga or meditation.
+I initially added theses two videos for the users to follow and have an experience with trying to do yoga or meditation. Both videos were removed.
 
 (1) A yoga Video about 3 Simple Yoga Exercises by sharp healthcare on youtube.
 
@@ -287,23 +291,39 @@ I think with covid it has highlighted the importance of social distancing and co
  **Testing**
 **User Stories"
 
-1. As a user i want to know that I have come to a site about self-improvement techniques.
-+
+1. As a user I want to know that I have come to a website about self-improvement techniques.
+
+* TEST: After the user loadS the page the first thing they will see is the Main logo, stating, that this is a Wellbeing Retreat and there is a welcome statement stating they will learn about yoga and meditation.
 
 2. As a user I want to be able to easily navigate around 
 the site.
 
+* TEST: When the user is on the landing page they will see a navigation menu listing the various parts of the site that they can go to.
+
 3. As a user I want to know what is yoga/meditaion?
+
+* TEST: The user will be able to learn about what is yoga and meditation in the yoga and meditation section.  Where there is a what is yoga/meditation question with an answer.
 
 4. As a user I want to have a list about the different types of yoga/meditation.
 
+* TEST: The user will see a list of the different types of yoga and meditation in the the yoga and meditation section.
+
 5. As a user I want to do a lesson on yoga/meditation.
 
-6. As a user I want to have a meditation image.
+* TEST: The user will have a lesson on yoga and meditation in the the yoga and meditation section.
 
-7. As a user I want to be able to leave my submit my first name, surname and email.
+6. As a user I want to have  yoga and meditation images.
+
+
+* TEST: The user will see a yoga image and a meditation image in the image section.
+
+7. As a user I want to be able to submit my first name, surname and email.
+
+* TEST: The user will be able to leave their  first name, surname and email in a sign upbox.
 
 8. As a user I want to be able to use social media icons.
+
+* TEST: The user will have a choice of four social media icons to use from in the footer section.
 
 Web Accessibilty Evaluation Tool
 
