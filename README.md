@@ -1,6 +1,8 @@
  # The Wellbeing Retreat
  
- This project hopes to accomplish delivering lesson techniques on yoga and meditation to the users. Wellbeing has become an integral part of our lives. increasingly a work life balance enables us into living happier and fuller lives.
+ The Wellbeing Retreat hopes to accomplish delivering information about yoga and meditation to interested users. Wellbeing has become an integral part of our lives. 
+ 
+ The site aims to target people who are beginning to explore an interest in yoga and meditation. The Wellbeing Retreat will be useful for beginners to get an idea about what is yoga and meditation, the various types of yoga and meditation and a lesson if they wish to take it further.
 
 **UX**
 
