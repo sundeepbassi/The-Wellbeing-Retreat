@@ -6,7 +6,7 @@
 
 **UX**
 
-**User Stories"
+**User Stories**
 
 1. As a user i want to know that I have come to a site about self-improvement techniques mainly yoga and meditation.
 
@@ -62,14 +62,13 @@ the site.
 
  5. What social media contacts would you like to see incorporated on the site?
 
- The site was named The Wellbeing Retreat because one  wanted to give the users a feeling that they were about to enter a retreat from where they could switch off from the outside world.
+ The site was named The Wellbeing Retreat because one  wanted to give the users a feeling that they were about to enter a retreat and from which they could switch off from the outside world and distractions. The idea is that they would be in place of refuge and a sanctuary.
 
  I initially had the idea of using the title Yogimed and realised that this may give the user the wrong impression. As the end of the  word maybe misinterpreted to mean medical.
 
- I also thought about using the title Harmony for the site as the remit was to use body/mind self-improvement techniques. I realised that this would be too confusing for users as a 
- E harmony site already exists for people wishing to date.
+ I also thought about using the title Harmony for the site as the remit was to use body/mind self-improvement techniques. I realised that this would be too confusing for users as a E harmony site already exists for people wishing to date.
 
- I realised that The Wellbeing Retreat incorparated this feeling body/mind self improvement techniques and it was a place to go and learn.
+ I realised that The Wellbeing Retreat incorparated this feeling of the body/mind self improvement techniques and it was a place to go and learn.
 
 
  **Scope**
@@ -86,7 +85,7 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
 [Thirdwireframe](assets/docs/wireframes/third-wireframe-3a.png)
 
-I was shown by tutor support how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
+I was shown by the tutor support team about how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
 
  **The surface** 
 
@@ -102,7 +101,7 @@ I was shown by tutor support how to load up my wireframes into git hub and then 
 
  In considering the typograhy font for the site the article on Canva was helpful in viewing a number of fonts displayed on various websites. Bebas Neue was initially chosen however this was changed to Manjari. The benefit of viewing the text in Google Fonts enabled one to see the diffence in appearance with both fonts.
  
-  Manjari was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. Google Font recommended Montserrat to compliment Manjari. 
+  Manjari was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. Google Font recommended Montserrat to compliment Manjari. The impact of Montserrat on the page made it look professional and easy to read.
 
  One wanted to find typoghraphy and fonts that were both professional and had an aesthetic appeal. The Canva website showcased a number of fonts that created a good impression to the user.
 
@@ -118,7 +117,7 @@ I was shown by tutor support how to load up my wireframes into git hub and then 
 
 quote taken from Canva written by Poppy Pack.
 
-[canva how fonts speak to you](https://www.canva.com/learn/how-different-fonts-speak-to-you/)
+[Canva how fonts speak to you](https://www.canva.com/learn/how-different-fonts-speak-to-you/)
 
 Canva's ultimate guide to font pairing by Poppie Pack
 
@@ -128,14 +127,14 @@ Canva's ultimate guide to font pairing by Poppie Pack
 
  Image Link to font chosen 
 
- [canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
+ [Canva website](https://www.canva.com/learn/best-professional-fonts-use-website/)
 
  [Canva's ultimate guide to font pairing
 ](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
 
 Establish a Mood with Typography Carrie Cousins
 
-[typography moods](https://tympanus.net/codrops/2012/02/19/establish-a-mood-with-typography/)
+[Typography moods](https://tympanus.net/codrops/2012/02/19/establish-a-mood-with-typography/)
 
 The next step was to see how font colours contrasted with the background colours. The article and display board were very useful.
 
@@ -160,6 +159,10 @@ I used the colour chart below to check best colours for visibilty. Jeremy Girard
 Images taken to help decide best colour scheme for the site regarding background and foreground contrasts.  This was also to ensure that it was useable for people with visual impairments.
 
  **Background Colour** was set to #bbccff as this gave a nice contrast to the font text that is black.  The font also stood out better with this colour compared to the white background. With the white background it felt cold and sharp whereas with this colour it was warmer and more appealing to the eye.
+
+ The test below shows how the foreground colour would look on the background colour and it passed the checker test.
+
+ [checker Test for the Site](assets/images/checker-test.png)
 
 
  **Landing Page**
