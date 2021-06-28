@@ -538,7 +538,7 @@ Information on UX
 
  [Henriqueperoni CI-MS3-Books-World](https://github.com/Henriqueperoni/CI-MS3-Books-World/blob/master/README.md#2-scope)
 
-Setting up the gallery html and adding the correct code was shown in the love running video from the Code Institute.
+Setting up the gallery html and adding the correct code was shown in the love running video from the Code Institute. I had problems getting the gallery nav bar to work and I was shown by tutor support how to link it back up to the index.html to get the nav bar to work, I also did a validator check and it worked.
 
 
  **content**
