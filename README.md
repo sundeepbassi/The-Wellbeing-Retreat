@@ -62,6 +62,11 @@ the site.
 
  5. What social media contacts would you like to see incorporated on the site?
 
+ 
+ **Scope**
+
+ Allow the user to have an opportunity to consider self improvement techniques namely yoga and meditation.
+
  The site was named The Wellbeing Retreat because one  wanted to give the users a feeling that they were about to enter a retreat and from which they could switch off from the outside world and distractions. The idea is that they would be in place of refuge and a sanctuary.
 
  I initially had the idea of using the title Yogimed and realised that this may give the user the wrong impression. As the end of the  word maybe misinterpreted to mean medical.
@@ -71,7 +76,6 @@ the site.
  I realised that The Wellbeing Retreat incorparated this feeling of the body/mind self improvement techniques and it was a place to go and learn.
 
 
- **Scope**
 
  **The skeletal** 
 
@@ -79,15 +83,17 @@ In the skeletal process I first of all did my basic plan on paper with an outlin
 
 Then I used Balsamique to do a basic wireframe which i presented to my mentor and he recommended that I redo the wireframe so as to show better consistency and layout for the site. I appreciated his advice and I did an update of that wireframe.  As I was using Balsamique for the first time I had to get used to the functions.
 
-[Firstwireframe](assets/docs/wireframes/first-wireframe.png)
+[Firstwireframe](assets/docs/wireframes/second-wireframe.png)
 
-[Secondwireframe](assets/docs/wireframes/second-wireframe.png)
+[Secondwireframe](assets/docs/wireframes/first-wireframe.png)
 
 [Thirdwireframe](assets/docs/wireframes/third-wireframe-3a.png)
 
 I was shown by the tutor support team about how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
 
  **The surface** 
+
+
 
  **Structure**
 
@@ -329,6 +335,10 @@ the site.
 8. As a user I want to be able to use social media icons.
 
 * TEST: The user will have a choice of four social media icons to use from in the footer section.
+
+**Navigation links redirect to the desired pages**
+
+Checked the navigation bar and the social media icons in the footer, they all redirect to the correct pages.
 
 Web Accessibilty Evaluation Tool
 
