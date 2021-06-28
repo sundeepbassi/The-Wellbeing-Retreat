@@ -26,7 +26,7 @@ the site.
 8. As a user I want to be able to use social media icons.
 
 
-
+**Strategy**
 
 **The Goals of the user**
 1. To learn about self-improvement techniques
@@ -42,7 +42,7 @@ the site.
 4. To reach out to a wider audience that have not considered yoga and meditation before.
 5. To enable the user to learn some skills about yoga and meditation.
 
-**Strategy**
+
 
  This project hopes to target anyone interested in learning about yoga and meditation. The target audience is mainly aimed at beginners. However this site aims to provide body/mind techniques to people that are interested in learning more about these techniques. 
 
@@ -377,6 +377,14 @@ I tried to remove the #meditation and the right-about-med in the css code as I h
 
  **Deployment**
 
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here 
+
+The information above for deploying the project was taken from the love running readme and from the video showing how to deploy from the Code Institute.
+
  **Credits**
 
 The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough.
@@ -393,9 +401,6 @@ To set the changes to the navigation were shown in the love running video Code I
 
 To set the style for navigation links was shown in the love running video Code Institute.
 
-To install the hero image was shown in the love running video from Code Institute. The image was taken from iStock Getty images.
-
-[iStock](https://www.istockphoto.com/photos/buddha-NOT-white-background?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=picjumbo%20%2F%20Viktor%20Hanacek&clickid=Ssb2u:VwnxyLW0W0EOSREQreUkB1ksSNnRyy0g0&utm_term=VMB&utm_campaign=&utm_content=258824&irpid=1982588)
 
 To construct the yoga and meditation sections were shown in the love running video by the Code Institue. However I had to do a sketch on paper, to check how the layout would look like for both the yoga and meditation sections. As I was going to have to split the screen into two sections.  The width was adjusted to 50% so as to make the two sections equal to fit the information.
 
@@ -468,9 +473,6 @@ Changed left margin settings for better appearance.
 
 The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported me in resolving issues with images not loading.
 
-Images were taken from Unsplash for the site.
-
-[Unsplash](https://unsplash.com/s/photos/yoga)
 
 The tutor support team at Code Institute guided me to use image resizing sites. I used Iloveimg to resize my images.
 
@@ -530,6 +532,14 @@ In relation to the positioning of items in CSS, one found the video by Deved to 
 
 [Positioning in CSS](https://www.youtube.com/watch?v=gD3G67oPg-w&t=333s)
 
+Information on UX
+
+ [Omar Elgabrys blog](https://medium.com/omarelgabrys-blog/ux-scope-part-4-7622cc2df13b)
+
+ The implementation of user stories information was given to me by my mentor Excellence Illensami and he told me to look at how one of his students had implemented it into their project .
+
+ [Henriqueperoni CI-MS3-Books-World](https://github.com/Henriqueperoni/CI-MS3-Books-World/blob/master/README.md#2-scope)
+
 
 
 
@@ -552,6 +562,15 @@ Types of Meditation shown in healthline.
 
 
  **Media**
+
+To install the hero image was shown in the love running video from Code Institute. The image was taken from iStock Getty images.
+
+[iStock](https://www.istockphoto.com/photos/buddha-NOT-white-background?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=picjumbo%20%2F%20Viktor%20Hanacek&clickid=Ssb2u:VwnxyLW0W0EOSREQreUkB1ksSNnRyy0g0&utm_term=VMB&utm_campaign=&utm_content=258824&irpid=1982588)
+
+
+Images were taken from Unsplash for the site.
+
+[Unsplash](https://unsplash.com/s/photos/yoga)
 
  **Other General Project Advice**
  
