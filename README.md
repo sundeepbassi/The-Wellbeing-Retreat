@@ -378,6 +378,13 @@ I used a free formatter to format the code and to make it look presentable.
 
 [Free Formatter](https://www.freeformatter.com/html-formatter.html)
 
+My mentor recommeded that I check the resposiveness of the site and look into media queries again to ensure the site is responsive on all devices.
+
+The following were checked belowed.
+
+(1) For larger to medium screen size from 1200px wide and down. I had to add a #welcome id for this section.  The code was taken from the love running video from the Code Institute.
+
+(2) 
 
  **|Unfixed Bugs**
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
