@@ -421,9 +421,7 @@ I also wanted to ensure that both the yoga and meditaion sections were kept cons
 
 3.A lesson on one of the categories.
 
-1.Images
 
-2.Video
 
 The left side styling and structure was shown in the love running video by the Code Institute.  I adjusted the margin bottom to 100px so that it could fit better within the section.  I also floated it to the left.
 
@@ -540,7 +538,7 @@ Information on UX
 
  [Henriqueperoni CI-MS3-Books-World](https://github.com/Henriqueperoni/CI-MS3-Books-World/blob/master/README.md#2-scope)
 
-
+Setting up the gallery html and adding the correct code was shown in the love running video from the Code Institute.
 
 
  **content**
