@@ -388,6 +388,10 @@ The following were checked belowed.
 
 (3) Added styles for yoga and meditatiaon section on mobile screens.
 
+(4) For small screen sizes 800px and down was applied to styling the gallery for responsive design.
+
+The above was checked through with the love running video about applying responsive design from the Code Institute.
+
  **|Unfixed Bugs**
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
 
