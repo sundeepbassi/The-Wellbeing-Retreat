@@ -372,6 +372,13 @@ Best of luck," Email sent by student care 10th June 2021
 
 I did the two validator checks for CSS and HTML one with the url and one with the direct input.  The results were different when using the url input and when I did the direct input test both the CSS and the HTML passed. I contacted the tutor support team and they advised me that the direct input would be the best one to do and record.  The tutor support also advised me to mention this within my readme with the different results.  I know that I have removed all the previous errors that were found and when I reinputted my code into the W3c validator checks with the direct input both my CSS and the HTML passed.
 
+I had to remove the section tags below the header because when I did a validator test it came up as a warning that the there needed to be a <h> tag with a section.  The problem was removed by removing the section tags.
+
+I used a free formatter to format the code and to make it look presentable.
+
+[Free Formatter](https://www.freeformatter.com/html-formatter.html)
+
+
  **|Unfixed Bugs**
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
 
