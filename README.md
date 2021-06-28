@@ -384,7 +384,9 @@ The following were checked belowed.
 
 (1) For larger to medium screen size from 1200px wide and down. I had to add a #welcome id for this section.  The code was taken from the love running video from the Code Institute.
 
-(2) 
+(2) For media screen sizes from 950px wide and down.
+
+
 
  **|Unfixed Bugs**
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
