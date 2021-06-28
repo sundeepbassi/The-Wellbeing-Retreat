@@ -386,7 +386,7 @@ The following were checked belowed.
 
 (2) For media screen sizes from 950px wide and down.
 
-
+(3) Added styles for yoga and meditatiaon section on mobile screens.
 
  **|Unfixed Bugs**
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
