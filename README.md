@@ -253,7 +253,7 @@ I decided not to do a gallery of images as I did not want it to look too clutter
 
 #### No Video
 
-An update, after careful consideration the two videos were removed because when I ran a validator check on W3C for both the HTML and CSS errors came up regarding the embedding of the videos.  The tutors had kindly shown me how to install the videos from the you tube format and they worked but I was concerned about how this would affect the project with errors from the validators.
+The two videos had error messages in the validator checks I was not sure whether to add them, the error was removed in the code and another check was done and it passed the test.
 
 I initially added theses two videos for the users to follow and have an experience with trying to do yoga or meditation. Both videos were removed.
 
@@ -268,6 +268,9 @@ I initially added theses two videos for the users to follow and have an experien
 
 The tutor support team and Igor guided me on how to embed the videos from you tube as the format was different and I could not use the video tags.
 
+I tried to centre the videos and I looked at information from the free code academy about putting video in the centre. However I had to do a margin left option for both of the  videos to bring them to the centre.  I also added a gap between both the videos and I used margin-bottom to do this myself.
+
+[Free Code Camp](https://forum.freecodecamp.org/t/put-video-in-center-of-page/214005/4)
 
  #### Sign up Section
 
