@@ -468,10 +468,6 @@ I had to adjust the bottom height of right about heading class because it was ou
 
 The right about heading bottom right was increased to 150px to help it sit better with the left hand si
 
-The information on the yoga lesson was adapted from:
- 
-[The 10 most important yoga poses.](https://www.doyou.com/the-10-most-important-yoga-poses-for-beginners-25270/)
-
 The sign up section is credited to a video tutorial by "How to create Sign up & Login form with HTML and CSS" | Easy tutorial | By Code Info. 
 
 I also found it useful to watch  "Forms In HTML and CSS | How To Create A Form | Learn HTML and CSS | HTML Tutorial | CSS Tutorial" by Dani Krossing, this helped me to understaand how the forms are structured. The submit form was kept simple in line with the rest of the layout for the site.  
@@ -507,7 +503,7 @@ Changed left margin settings for better appearance.
 The insertion of images was shown in Love Running Code Institute.  W3schools was checked to see how to insert images. Fellow classmates on Slack supported me in resolving issues with images not loading.
 
 
-The tutor support team at Code Institute guided me to use image resizing sites. I used Iloveimg to resize my images.
+The tutor support team at the Code Institute guided me to use image resizing sites. I used Iloveimg to resize my images.
 
 To set the h1 element to align to the centre of page was shown in stack overfow.
 
@@ -593,6 +589,16 @@ Types of Meditation shown in healthline.
 
 [healthline](https://www.healthline.com/health/mental-health/types-of-meditation)
 
+The information on the yoga lesson was adapted from:
+ 
+[The 10 most important yoga poses.](https://www.doyou.com/the-10-most-important-yoga-poses-for-beginners-25270/)
+
+The information for the meditation lesson was adapted from.
+
+[Mindful.org](https://www.mindful.org/meditation/mindfulness-getting-started/)
+
+
+
 
  ### Media
 
@@ -607,24 +613,5 @@ Images were taken from Unsplash for the site.
 
  ### Other General Project Advice
  
- #### Reflective Learning Log
-I kept a reflective learning log so as to understand my own style of learning and what worked for me.  
-
-I learnt that coding can be challenging and rewarding.
-
-I learnt to keep things simple because then they are more effective.
-
-I learnt that I will make mistakes and I have an opportuniy to learn from these mistakes.
-
-I learnt that it is best to check the code on the validators regularly as it will highlight problems.
-
-I learnt that I never stop learning.
-
-
-
-
-
-
-
-
+ 
 
