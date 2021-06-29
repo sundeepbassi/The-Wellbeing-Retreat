@@ -313,6 +313,16 @@ footer {
     #photos {
         column-count: 2;
     }
+	
+#yog-vid, #med-vid {
+	display: none;
+}
+}
+
+/* for small screen and  400px and down */
+
+@media screen and (max-width: 400px) {
+
 	.signup-box {
 		width: 400px;
 		height: 400px;
@@ -320,8 +330,12 @@ footer {
 		margin-top: 200px;
 		border-radius: 3px;
 	}
-
-#yog-vid, #med-vid {
-	display: none;
+footer {
+	
+	margin-top: 40px;
+	
 }
+
+
+
 }

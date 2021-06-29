@@ -567,6 +567,10 @@ Setting up the gallery html and adding the correct code was shown in the love ru
 
 Tutor support guided me with how to use dev tools to find problems with why my meditation section was not being responsive.  I had to put the margin right to 0 for it to fit on mobile devices.
 
+I used the display none for the videos in mobile devices as they were misaligning.  I worked this out for myself.
+
+I created a media screen max width 400px as the sign up box was misaligning to the top for the mobile devices.
+
 
  ### Content
 information about yoga was taken from an article in the New York Times 
