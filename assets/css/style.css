@@ -272,6 +272,9 @@ footer {
 		padding: 0 20px;
 	}
 
+	.right-about-heading {
+		margin-right: 0;
+	}
     #photos {
 
         column-count: 3;

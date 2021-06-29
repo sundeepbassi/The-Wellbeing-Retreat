@@ -4,9 +4,9 @@
  
  The site aims to target people who are beginning to explore an interest in yoga and meditation. The Wellbeing Retreat will be useful for beginners to get an idea about what is yoga and meditation, the various types of yoga and meditation and a lesson if they wish to take it further.
 
-**UX**
+## UX
 
-**User Stories**
+### User Stories
 
 1. As a user i want to know that I have come to a site about self-improvement techniques mainly yoga and meditation.
 
@@ -26,16 +26,16 @@ the site.
 8. As a user I want to be able to use social media icons.
 
 
-**Strategy**
+### Strategy
 
-**The Goals of the user**
+#### The Goals of the user
 1. To learn about self-improvement techniques
 2. To feel comfortable in being able to use these self-improvement techniques.
 3. To gain confidence in using these self-improvement techniques.
 4. To have a better sense of wellbeing.
 5. To enjoy the experience and to feel at ease on the site.
 
-**The Goals for the Business**
+#### The Goals for the Business
 1. To give the user a positive and intuitive experience.
 2. To give the user an opportunity to learn about self-improvement techniques.
 3. To promote the benefits of yoga and meditation.
@@ -63,7 +63,7 @@ the site.
  5. What social media contacts would you like to see incorporated on the site?
 
  
- **Scope**
+ ### Scope
 
  Allow the user to have an opportunity to consider self improvement techniques namely yoga and meditation.
 
@@ -77,7 +77,7 @@ the site.
 
 
 
- **The skeletal** 
+ ### The Skeletal 
 
 In the skeletal process I first of all did my basic plan on paper with an outline of how the site would be structured.
 
@@ -91,17 +91,17 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
 I was shown by the tutor support team about how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
 
- **The surface** 
+ **The surface
 
 
 
- **Structure**
+ ### Structure
 
- **The Features**
+ #### The Features
 
- **features**
+ #### features
 
-**Typography**
+#### Typography
  
  How the Font and the background colour were used on the site, one did research especially in relation to accessibily for people with visual impairment.
 
@@ -164,18 +164,19 @@ I used the colour chart below to check best colours for visibilty. Jeremy Girard
 
 Images taken to help decide best colour scheme for the site regarding background and foreground contrasts.  This was also to ensure that it was useable for people with visual impairments.
 
- **Background Colour** was set to #bbccff as this gave a nice contrast to the font text that is black.  The font also stood out better with this colour compared to the white background. With the white background it felt cold and sharp whereas with this colour it was warmer and more appealing to the eye.
+#### Background Colour
+ Background Colour was set to #bbccff as this gave a nice contrast to the font text that is black.  The font also stood out better with this colour compared to the white background. With the white background it felt cold and sharp whereas with this colour it was warmer and more appealing to the eye.
 
  The test below shows how the foreground colour would look on the background colour and it passed the checker test.
 
- [checker Test for the Site](assets/images/checker-test.png)
+ [Checker Test for the Site](assets/images/checker-test.png)
 
 
- **Landing Page**
+ #### Landing Page
 
  I decided to keep the landing page simple because I remember when I studied a short course at Birmingham City University the lecturer telling us that the best websites incorporated simplicity into their design like Google that only have a plain landing page with a search engine in the middle.  Thereby the users are not overwhelmed with too much information.
 
- **Navigation**
+ #### Navigation
 
  I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was best to use this F shape as a guide and to place the Navigation at the top left side of the page.
 
@@ -186,8 +187,7 @@ Images taken to help decide best colour scheme for the site regarding background
  As the layout had been changed and the yoga and meditation information would be set next to each other, the navigation links also had to be changed.  The meditation link was not working with this change so the best thing to do was add the id yoga to the meditation link and it worked perfectly.
 
  An extra link was created for the Images in the navigation menu for the user to access the images and videos.
-
-**No Background image**
+#### No Background Image
 
 I checked the Code Institute recommendation to read the article in the website usersnap.  However I decided that I did not want to put a background image on the site because I felt it may distract the user away from the purpose of the site which is to provide learning and a feeling of tranquility.  The article stated that video, animation and hero backgrounds had become popular.  However I think that although this may be good for some websites that it does not mean that this would be suitable for all websites.  My argument being that every site functions differently according to the service it provides to its users.  Therefore, The Wellbeing Retreats purpose is to provide learning and wellbeing and the simplicity in its style promotes this idea of calmness and wellbeing. I noticed that when I did my research on websites for yoga and meditation that although initially I did find the background images appealing however this distracted me from checking out some of the other sections on the site.
 
@@ -203,11 +203,11 @@ Web Design: When the Background Becomes the Main Stage
 by Rebecca Vogels
 Web Development
 
- **The Wellbeing retreat**
+ #### The Wellbeing retreat
 
 This main header I want to put on the right top side of the of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
 
-**The Statement**
+**The Statement
 
 I decided to add a statememt under the landing page image to welcome users onto the site.
 
