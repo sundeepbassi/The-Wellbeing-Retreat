@@ -91,7 +91,7 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
 I was shown by the tutor support team about how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
 
- **The surface
+ ### The Surface
 
 
 
@@ -385,7 +385,7 @@ I used a free formatter to format the code and to make it look presentable.
 
 My mentor recommeded that I check the resposiveness of the site and look into media queries again to ensure the site is responsive on all devices.
 
-The following were checked belowed.
+The following were checked below on 28th of |June 2021.
 
 (1) For larger to medium screen size from 1200px wide and down. I had to add a #welcome id for this section.  The code was taken from the love running video from the Code Institute.
 
@@ -395,9 +395,17 @@ The following were checked belowed.
 
 (4) For small screen sizes 800px and down was applied to styling the gallery for responsive design.
 
+Tutor support guided me with how to use dev tools to find the faults that needed to be rectifies  with my meditation section as it was not being responsive in smaller screen sizes.  I had to put the margin right to 0 for it to fit on mobile devices.
+
+I used the display none for the videos in mobile devices as they were misaligning.  I worked this out for myself.
+
+I created a media screen max width 400px as the sign up box was misaligning to the top for the mobile devices.
+
+
+
 The above was checked through with the love running video about applying responsive design from the Code Institute.
 
- ### |Unfixed Bugs
+ ### Unfixed Bugs
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
 
  ### Deployment
@@ -466,7 +474,7 @@ The sign up section is credited to a video tutorial by "How to create Sign up & 
 
 I also found it useful to watch  "Forms In HTML and CSS | How To Create A Form | Learn HTML and CSS | HTML Tutorial | CSS Tutorial" by Dani Krossing, this helped me to understaand how the forms are structured. The submit form was kept simple in line with the rest of the layout for the site.  
 
-The submit button was done in tomotoa red, so that the user could see, it is a form to fill in. I also checked on the colour coded chart by Lifewire, Jeremy Girard, to see what was the best text font colour for the submit button, done in tomotoa red.  On the chart, White as a text font colour was considered to be one of the best colours for visilbilty and design.
+The submit button was done in tomotoa red, so that the user could see, it is a form to fill in. I also checked on the colour coded chart by Lifewire, Jeremy Girard, to see what was the best text font colour for the submit button, done in tomotoa red.  On the chart, White as a text font colour was considered to be one of the best colours for visilbilty and design. A cursor pointer was added for visibilty of the user to see that it is a clickable button.
 
 The addition of the social media icons in the footer was shown the the love running video by the Code Institute.
 
@@ -564,12 +572,6 @@ Information on UX
  [Henriqueperoni CI-MS3-Books-World](https://github.com/Henriqueperoni/CI-MS3-Books-World/blob/master/README.md#2-scope)
 
 Setting up the gallery html and adding the correct code was shown in the love running video from the Code Institute. I had problems getting the gallery nav bar to work and I was shown by tutor support how to link it back up to the index.html to get the nav bar to work, I also did a validator check and it worked.
-
-Tutor support guided me with how to use dev tools to find problems with why my meditation section was not being responsive.  I had to put the margin right to 0 for it to fit on mobile devices.
-
-I used the display none for the videos in mobile devices as they were misaligning.  I worked this out for myself.
-
-I created a media screen max width 400px as the sign up box was misaligning to the top for the mobile devices.
 
 
  ### Content
