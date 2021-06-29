@@ -187,6 +187,23 @@ input[type="button"] {
 }
 
 
+/* video section */
+
+#yog-vid {
+
+	margin-left: 350px;
+    
+	
+    margin-bottom: 30px;
+}
+
+
+#med-vid {
+	margin-left: 350px;
+
+
+}
+
 /* footer */
 
 footer {
