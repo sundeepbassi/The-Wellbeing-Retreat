@@ -399,7 +399,7 @@ Tutor support guided me with how to use dev tools to find the faults that needed
 
 I used the display none for the videos in mobile devices as they were misaligning.  I worked this out for myself.
 
-I created a media screen max width 400px as the sign up box was misaligning to the top for the mobile devices.
+I created a media screen max width 400px as the sign up box was misaligning to the top for the mobile devices. The small screen was adjusted to 360px.
 
 
 
