@@ -207,19 +207,20 @@ Web Development
 
 This main header I want to put on the right top side of the of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
 
-**The Statement
+#### The Statement
 
 I decided to add a statememt under the landing page image to welcome users onto the site.
 
- **The Image on the Landing Page**
+ #### The Image on the Landing Page
 
 I initially thought about adding two images one for yoga and one for meditation but then I realised that one central image gave the landing page a focus.
  
- **Yoga/Meditation**
+ #### Yoga/Meditation
 
  I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore the  layout should be similar,simple and effective.  I decided putting both the Yoga and Meditation content next to each other was a good display for the user.  It also enabled the user to have a choice in what would be of interest to them.
 
- **The Yoga Section**
+ #### The Yoga Section
+
 
 What is Yoga? /Where did it originate?
 
@@ -231,7 +232,7 @@ There will be a lesson on how to do one of the techniques.
 
 
 
- **The Meditation Section**
+ #### The Meditation Section
 
 What is Meditation? /Where did it originate
 
@@ -241,7 +242,7 @@ List the techniques.
 
 There will be a lesson on how to do one of the techniques.
 
-**Images section**
+#### Images section
 
 I added two images here:
 (1) First is a group of people doing yoga.
@@ -250,7 +251,7 @@ I added two images here:
 
 I decided not to do a gallery of images as I did not want it to look too cluttered for the user, I felt it may distract from the simpleness and effectiveness of the design. The two images also were in centre position like the landing page image. There was a consistency and flow about the structure of the site. I used the code from the hero image section that I had followed in the love running video from the Code Institute.
 
-**No Video**
+#### No Video
 
 An update, after careful consideration the two videos were removed because when I ran a validator check on W3C for both the HTML and CSS errors came up regarding the embedding of the videos.  The tutors had kindly shown me how to install the videos from the you tube format and they worked but I was concerned about how this would affect the project with errors from the validators.
 
@@ -268,7 +269,7 @@ I initially added theses two videos for the users to follow and have an experien
 The tutor support team and Igor guided me on how to embed the videos from you tube as the format was different and I could not use the video tags.
 
 
- **Sign up Section**
+ #### Sign up Section
 
 The sign up section will have the following.
 
@@ -280,7 +281,7 @@ Email and and input box.
 
 A submit button.
 
- **The Footer Section**
+ #### The Footer Section
 
 The footer will include icons for Twitter, facebook, instagram and Youtube. 
 
@@ -290,7 +291,7 @@ Again I do not want to put the footer ina different coloured area as I feel this
 
 I noticed that the sign up red submit button was being pressed tbat the social media icons opened up.  I used google developer tools to check what was going on and I noticed the both the social media and the sign up submit button overlapped.  I rectified this by adding margin-top: 100px; to the footer section and it rectified the problem.
 
- **Features Left to Implement**
+ #### Features Left to Implement
 
 I am thinking it would be good to have a section for teachers in the future.  Whereby teachers could have an information page about themselves and contact information.
 
@@ -299,8 +300,9 @@ There could also be a place to list a timetable of classes.
 
 I think with covid it has highlighted the importance of social distancing and conducting classes over the web through other media technologies such as zomm could be a good idea.
 
- **Testing**
-**User Stories"
+ ### Testing
+
+#### User Stories
 
 1. As a user I want to know that I have come to a website about self-improvement techniques.
 
@@ -336,7 +338,7 @@ the site.
 
 * TEST: The user will have a choice of four social media icons to use from in the footer section.
 
-**Navigation links redirect to the desired pages**
+#### Navigation links redirect to the desired pages
 
 Checked the navigation bar and the social media icons in the footer, they all redirect to the correct pages.
 
@@ -344,7 +346,7 @@ Web Accessibilty Evaluation Tool
 
  [Wave](https://wave.webaim.org/)
 
- **Validator Testing**
+ ### Validator Testing
 
 I did a number of validator tests and the main problem that needed to be dealt with was an error with the syntax to do with id.  in the code the validator showed me that there were duplicate id's being listed.  I removed the id's but then the right bottom side of the page became misaligned.
 
@@ -392,10 +394,10 @@ The following were checked belowed.
 
 The above was checked through with the love running video about applying responsive design from the Code Institute.
 
- **|Unfixed Bugs**
+ ### |Unfixed Bugs
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
 
- **Deployment**
+ ### Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
@@ -405,7 +407,7 @@ The live link can be found here
 
 The information above for deploying the project was taken from the love running readme and from the video showing how to deploy from the Code Institute.
 
- **Credits**
+ ### Credits
 
 The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough.
 
@@ -426,7 +428,7 @@ To construct the yoga and meditation sections were shown in the love running vid
 
 I also wanted to ensure that both the yoga and meditaion sections were kept consistent in their structures as they would be holding similar questions on the left hand side.
 
-**Left hand side of the screen**
+### Left hand side of the screen
 
 1.What is Yoga/Meditation
 
@@ -434,7 +436,7 @@ I also wanted to ensure that both the yoga and meditaion sections were kept cons
 
 3.A lesson on one of the categories.
 
-**Right hand side of the screen**
+Right hand side of the screen
 1.What is Yoga/Meditation
 
 2.What are the technique categories with supporting information.
@@ -560,8 +562,10 @@ Information on UX
 
 Setting up the gallery html and adding the correct code was shown in the love running video from the Code Institute. I had problems getting the gallery nav bar to work and I was shown by tutor support how to link it back up to the index.html to get the nav bar to work, I also did a validator check and it worked.
 
+Tutor support guided me with how to use dev tools to find problems with why my meditation section was not being responsive.  I had to put the margin right to 0 for it to fit on mobile devices.
 
- **content**
+
+ ### Content
 information about yoga was taken from an article in the New York Times 
 
 [New York Times](https://www.nytimes.com/guides/well/beginner-yoga)
@@ -579,7 +583,7 @@ Types of Meditation shown in healthline.
 [healthline](https://www.healthline.com/health/mental-health/types-of-meditation)
 
 
- **Media**
+ ### Media
 
 To install the hero image was shown in the love running video from Code Institute. The image was taken from iStock Getty images.
 
@@ -590,9 +594,9 @@ Images were taken from Unsplash for the site.
 
 [Unsplash](https://unsplash.com/s/photos/yoga)
 
- **Other General Project Advice**
+ ### Other General Project Advice
  
- **Reflective Learning Log**
+ #### Reflective Learning Log
 I kept a reflective learning log so as to understand my own style of learning and what worked for me.  
 
 I learnt that coding can be challenging and rewarding.
@@ -605,7 +609,7 @@ I learnt that it is best to check the code on the validators regularly as it wil
 
 I learnt that I never stop learning.
 
-**log of issue dealt with**
+
 
 
 

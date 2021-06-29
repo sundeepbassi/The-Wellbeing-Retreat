@@ -289,7 +289,13 @@ footer {
     #photos {
         column-count: 2;
     }
-
+	.signup-box {
+		width: 400px;
+		height: 400px;
+		margin: auto;
+		margin-top: 200px;
+		border-radius: 3px;
+	}
 
 
 }
