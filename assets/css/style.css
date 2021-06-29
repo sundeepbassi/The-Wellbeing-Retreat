@@ -208,7 +208,7 @@ input[type="button"] {
 
 footer {
 	height: 150px;
-	margin-top: 50px;
+	margin-top: 40px;
 }
 
 .social-networks {
@@ -226,6 +226,13 @@ footer {
 	color: #3a3a3a;
 }
 
+
+
+
+/* copyright section */
+#copyright {
+	margin-left: 350px;
+}
 
 /* media queries */
 
@@ -314,5 +321,7 @@ footer {
 		border-radius: 3px;
 	}
 
-
+#yog-vid, #med-vid {
+	display: none;
+}
 }
