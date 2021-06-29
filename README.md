@@ -468,7 +468,9 @@ I had to adjust the bottom height of right about heading class because it was ou
 
 The right about heading bottom right was increased to 150px to help it sit better with the left hand si
 
-
+The information on the yoga lesson was adapted from:
+ 
+[The 10 most important yoga poses.](https://www.doyou.com/the-10-most-important-yoga-poses-for-beginners-25270/)
 
 The sign up section is credited to a video tutorial by "How to create Sign up & Login form with HTML and CSS" | Easy tutorial | By Code Info. 
 
