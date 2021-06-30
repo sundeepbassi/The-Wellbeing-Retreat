@@ -485,15 +485,27 @@ The above was checked through with the love running video about applying respons
  ### Unfixed Bugs
 I tried to remove the #meditation and the right-about-med in the css code as I had changed the layout of the site and did not need these.  I found when I removed them that the webpage became miss shaped therefore I decided to leave them in.
 
+I checked on the mobile devices on Google Developer tools for responsivity and there was still an overlap with the footer and the sign up box in the mobile devices pixel 2 and the Iphone 6 7 8 and 6 7 8 plus versions.
+
  ### Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here 
+The live link can be found here:       https://sundeepbassi.github.io/The-Wellbeing-Retreat/
 
 The information above for deploying the project was taken from the love running readme and from the video showing how to deploy from the Code Institute.
+
+I used PowerMapper to check how the website ran on other browsers and it generated this report below.
+
+[Browsers](assets/docs/screenshots/browser-check.png)
+
+
+The link below gives a report about The Wellbeing Retreat.
+
+[PowerMapper](https://try.powermapper.com/demo/Report/e1c9337c-10f2-4b1b-a493-64e8df174ba5)
+
 
  ### Credits
 
@@ -693,4 +705,16 @@ Images were taken from Unsplash for the site.
  #### Other General Project Advice
  
  The project was challenging and rewarding.  I think keeping it simple was very useful as it gave me a sense of direction and a flow.
+
+ #### Acknowledgements
+
+ I would like to thank my mentor Excellence LLesanmi for pushing me to do my best and to do it with excellence. 
+
+ I would like to thank the Student Care team at the Code Institute for there ongoing support.
+
+ I would like to thank the tutors on the tutorial team for their support.
+
+ I would like to thank the Slack community for their ongoing support.
+
+ I would also like to thank family and friends for their encouragement and support.
 

@@ -199,7 +199,8 @@ input[type="button"] {
 
 footer {
 	height: 150px;
-	margin-bottom: 1200px;
+	margin-top: 40px;
+	margin-bottom: 400px;
 }
 
 .social-networks {
