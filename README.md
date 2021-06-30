@@ -207,19 +207,22 @@ Images taken to help decide best colour scheme for the site regarding background
 
  #### Navigation
 
- I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained that with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was best to have the Navigation at the top of the page for easier accessibilty for the user.
+ I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained that with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user experience that it was best to have the navigation (bar) menu at the top of the page for easier accessibilty for the user.
 
- The navigation menu bar was set to fixed; so that it would be easier for the user to navigate throughout the site, without having to scroll up constantly.
-
- I also decided that I wanted to have the navigation in text form and not in a navigation bar as this may distract from the simplicity and consistency of the site.
+ I also decided that I wanted to have the navigation menu in text form and not in a navigation bar as this may distract away from the simplicity and consistency of the site.
 
  As the layout had been changed and the yoga and meditation information would be set next to each other, the navigation links also had to be changed.  The meditation link was not working with this change so the best thing to do was add the id yoga to the meditation link and it worked perfectly.
 
- An extra link was created for the Images in the navigation menu for the user to access the images and videos.
+ A Gallery link was created in gallery.html so that the user could have access to view yoga and meditation images. 
 #### No Background Image
 
-I checked the Code Institute recommendation to read the article in the website usersnap.  However I decided that I did not want to put a background image on the site because I felt it may distract the user away from the purpose of the site which is to provide learning and a feeling of tranquility.  The article stated that video, animation and hero backgrounds had become popular.  However I think that although this may be good for some websites that it does not mean that this would be suitable for all websites.  My argument being that every site functions differently according to the service it provides to its users.  Therefore, The Wellbeing Retreats purpose is to provide learning and wellbeing and the simplicity in its style promotes this idea of calmness and wellbeing. I noticed that when I did my research on websites for yoga and meditation that although initially I did find the background images appealing however this distracted me from checking out some of the other sections on the site.
+I checked the Code Institute's recommendation to read the article in the website usersnap.  However I decided that I did not want to put a background image on the site because I felt it may distract the user away from the purpose of the site which is to provide learning and a feeling of tranquility.  
 
+The article stated that video, animation and hero backgrounds had become popular.  However I think that although this may be good for some websites that it does not mean that this would be suitable for all websites.  My argument being that every site functions differently according to the service it provides to its users. 
+
+Therefore, The Wellbeing Retreats purpose is to provide learning and wellbeing and the simplicity in its style promotes this idea of calmness and wellbeing. I noticed that when I did my research on websites for yoga and meditation that although initially I did find the background images appealing however they did  distract me from checking out some of the other sections on the site.
+
+An example below, I liked the website OrangeYoga and I had to think about making the wellbeing site simple  for users that are beginners.
 
 [OrangeYoga](https://www.orangeyoga.co.uk/)
 
@@ -234,7 +237,7 @@ Web Development
 
  #### The Wellbeing retreat
 
-This main header I want to put on the right top side of the of the landing page so as to enable the user to feel that they are not inudated with too information. The main heading in itself will explain what the site is for.
+This main header I wanted to put on the left hand top side of the of the landing page so as to enable the user to feel that they are not inundated with too much information. The main heading in itself will explain what the site is about.
 
 #### The Statement
 
@@ -244,16 +247,16 @@ I decided to add a statememt under the landing page image to welcome users onto 
 
 I initially thought about adding two images one for yoga and one for meditation but then I realised that one central image gave the landing page a focus.
  
- #### Yoga/Meditation
+ #### Yoga and Meditation Section
 
- I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore the  layout should be similar,simple and effective.  I decided putting both the Yoga and Meditation content next to each other was a good display for the user.  It also enabled the user to have a choice in what would be of interest to them.
+ I wanted to make a note here that the layout for both the Yoga and Meditation sections need to be the same. I want the user to feel consistency and uniformity on these pages therefore the  layout should be similar, simple and effective.  I decided that by putting both the Yoga and Meditation content next to each other, that it was a good way to display information to the user.  This also gave the user a chance to choose the information they wanted to use.
 
  #### The Yoga Section
 
 
-What is Yoga? /Where did it originate?
+What is Yoga?
 
-What are the techniques?
+What are the different types of techniques?
 
 List the techniques
 
@@ -263,28 +266,30 @@ There will be a lesson on how to do one of the techniques.
 
  #### The Meditation Section
 
-What is Meditation? /Where did it originate
+What is Meditation?
 
-What are the techniques?
+What are the different types of techniques?
 
 List the techniques.
 
 There will be a lesson on how to do one of the techniques.
 
-#### Images section
+#### Gallery
 
-I added two images here:
-(1) First is a group of people doing yoga.
+The gallery was designed to incorporate a number of different images about yoga and mediation.  
 
-(2) Second is a group of people doing meditation.
+(1) There are groups of people doing these activities.
 
-I decided not to do a gallery of images as I did not want it to look too cluttered for the user, I felt it may distract from the simpleness and effectiveness of the design. The two images also were in centre position like the landing page image. There was a consistency and flow about the structure of the site. I used the code from the hero image section that I had followed in the love running video from the Code Institute.
+(2) There are various age ranges on the images.
 
-#### No Video
+(3) Images showing these activities being done indoors and outdoors.
+
+(4) People and their pets doing these activities.
+
+I selected these images to show that yoga and meditation  could be both accessible and fun.
+####  Video
 
 The two videos had error messages in the validator checks I was not sure whether to add them, the error was removed in the code and another check was done and it passed the test.
-
-I initially added theses two videos for the users to follow and have an experience with trying to do yoga or meditation. Both videos were removed.
 
 (1) A yoga Video about 3 Simple Yoga Exercises by sharp healthcare on youtube.
 
