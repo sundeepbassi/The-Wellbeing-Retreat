@@ -97,23 +97,46 @@ Then I used Balsamique to do a basic wireframe which i presented to my mentor an
 
 I was shown by the tutor support team about how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
 
- ### The Surface
+The wireframes were simplified during the project and had to be redesigned so as to keep the site simple and consistent.  The two images were taken out at the top and it was decided that one image could be used simply to convey the message.
 
+ ### Surface
+In the surface we can see that there is plenty of space that is uncluttered and a very simple layout.  As this is a site for beginners there was an emphasis of not having too many distractions as the information needed to be easily accessible.  
+
+The look and feel of these pages have to consistently flow and engage the user in a process of learning.
 
 
  ### Structure
+ The structure consists of a:
+
+ Home Page
+
+ Yoga and Meditation Section
+
+ Videos
+
+ Gallery
+
+ Sign-up Box
+
+ Footer
+
+ Copyright 
+
+
 
  #### The Features
+The features have been created with simplicity and consistency so that the user is not lost in too much information or distractions.
 
- #### features
+ #### Existing Features
 
-#### Typography
+
+##### Typography
  
  How the Font and the background colour were used on the site, one did research especially in relation to accessibily for people with visual impairment.
 
  In considering the typograhy font for the site the article on Canva was helpful in viewing a number of fonts displayed on various websites. Bebas Neue was initially chosen however this was changed to Manjari. The benefit of viewing the text in Google Fonts enabled one to see the diffence in appearance with both fonts.
  
-  Manjari was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. Google Font recommended Montserrat to compliment Manjari. The impact of Montserrat on the page made it look professional and easy to read.
+  Manjari was chosen because of the curviture and the shape appeared to be not too formal. At the same time considering it for a wellbeing project the font appeared to look somewhat wholistic and welcoming. Google Fonts recommended Montserrat to compliment Manjari. The impact of Montserrat on the page made it look professional and easy to read.
 
  One wanted to find typoghraphy and fonts that were both professional and had an aesthetic appeal. The Canva website showcased a number of fonts that created a good impression to the user.
 
@@ -127,7 +150,7 @@ I was shown by the tutor support team about how to load up my wireframes into gi
 
 "Every font has its own personality; whether it's elegant, fun, cool, or relaxed. Read on for four styles of fonts to try in your designs." 
 
-quote taken from Canva written by Poppy Pack.
+quote taken from Canva written by Poppie Pack.
 
 [Canva how fonts speak to you](https://www.canva.com/learn/how-different-fonts-speak-to-you/)
 
@@ -180,11 +203,11 @@ Images taken to help decide best colour scheme for the site regarding background
 
  #### Landing Page
 
- I decided to keep the landing page simple because I remember when I studied a short course at Birmingham City University the lecturer telling us that the best websites incorporated simplicity into their design like Google that only have a plain landing page with a search engine in the middle.  Thereby the users are not overwhelmed with too much information.
+ I decided to keep the landing page simple because I remember when I studied a short course at Birmingham City University the lecturer telling us that the best websites incorporated simplicity into their design like Google and they only have a plain landing page with a search engine in the middle.  Thereby the users are not overwhelmed with too much information.
 
  #### Navigation
 
- I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was best to use this F shape as a guide and to place the Navigation at the top left side of the page.
+ I initially thought about having the navigation under the main heading, however I changed my mind when I watched a video by Kierstan Traboulsi from Evolve Marketing web design.  Kierstan explained that with research and eye tracking software they have found that users eyes go to the upper top left hand side of a site and they scroll down in a F shape on the page.  I realised for an optimum user eperience that it was best to have the Navigation at the top of the page for easier accessibilty for the user.
 
  The navigation menu bar was set to fixed; so that it would be easier for the user to navigate throughout the site, without having to scroll up constantly.
 
