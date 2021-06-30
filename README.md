@@ -346,35 +346,62 @@ I think with covid it has highlighted the importance of social distancing and co
 
 * TEST: After the user loadS the page the first thing they will see is the Main logo, stating, that this is a Wellbeing Retreat and there is a welcome statement stating they will learn about yoga and meditation.
 
+[Landing Page](assets/docs/screenshots/landing-page.png)
+
 2. As a user I want to be able to easily navigate around 
 the site.
 
 * TEST: When the user is on the landing page they will see a navigation menu listing the various parts of the site that they can go to.
 
+[Landing Page](assets/docs/screenshots/landing-page.png)
+
 3. As a user I want to know what is yoga/meditaion?
 
 * TEST: The user will be able to learn about what is yoga and meditation in the yoga and meditation section.  Where there is a what is yoga/meditation question with an answer.
+
+[Yoga Meditation Information](assets/docs/screenshots/yogmed-info.png)
+
 
 4. As a user I want to have a list about the different types of yoga/meditation.
 
 * TEST: The user will see a list of the different types of yoga and meditation in the the yoga and meditation section.
 
+[Types of Yoga and Meditation](assets/docs/screenshots/yogmed-info.png)
+
+
 5. As a user I want to do a lesson on yoga/meditation.
 
 * TEST: The user will have a lesson on yoga and meditation in the yoga and meditation section.
 
-6. As a user I want to have  yoga and meditation images.
+[A lesson](assets/docs/screenshots/lesson-info.png)
 
 
-* TEST: The user will see a yoga image and a meditation image in the section.
+6. As a user I want to see  yoga and meditation images and video.
+
+
+* TEST: The user will see a yoga and  meditation images in the Gallery section. There are 
+
+[Gallery](assets/docs/screenshots/gallery-page.png)
+
+[Gallery Bottom Page](assets/docs/screenshots/gallery-bottom.png)
+
+[Video](assets/docs/screenshots/yogmed-video.png)
+
 
 7. As a user I want to be able to submit my first name, surname and email.
 
 * TEST: The user will be able to leave their  first name, surname and email in a sign upbox.
 
+[Sign Up Page](assets/docs/screenshots/signup-page.png)
+
 8. As a user I want to be able to use social media icons.
 
 * TEST: The user will have a choice of four social media icons to use from in the footer section.
+
+[Footer](assets/docs/screenshots/gallery-bottom.png)
+
+
+
 
 #### Navigation links redirect to the desired pages
 
