@@ -1,25 +1,31 @@
  # The Wellbeing Retreat
  
- The Wellbeing Retreat hopes to accomplish delivering information about yoga and meditation to interested users. Wellbeing has become an integral part of our lives. 
+ The Wellbeing Retreat hopes to accomplish delivering information about yoga and meditation to users that are interested in these self-improvement techniques. Genarally people are recognising the importance of wellbeing and wellness in their lives. 
  
- The site aims to target people who are beginning to explore an interest in yoga and meditation. The Wellbeing Retreat will be useful for beginners to get an idea about what is yoga and meditation, the various types of yoga and meditation and a lesson if they wish to take it further.
+ The site aims to target people who are beginning to explore an interest in yoga and meditation. The Wellbeing Retreat will be useful for beginners to get:
+ 
+ (1) An idea about what is yoga and meditation.
+ 
+ (2) The various types of yoga and meditation that are availabe.
+ 
+ (3) An opportunity to do a simple lesson if they wish to take it further.
 
 ## UX
 
 ### User Stories
 
-1. As a user i want to know that I have come to a site about self-improvement techniques mainly yoga and meditation.
+1. As a user I want to know that I have come to a site about self-improvement techniques mainly yoga and meditation.
 
 2. As a user I want to be able to easily navigate around 
 the site.
 
 3. As a user I want to know what is yoga and meditaion?
 
-4. As a user I want to have a list about the different types of yoga and meditation.
+4. As a user I want to see a list about the different types of yoga and meditation.
 
-5. As a user I want to do a lesson on yoga and meditation.
+5. As a user I want to do a simple lesson on yoga and meditation.
 
-6. As a user I want to see yoga and  meditation images.
+6. As a user I want to see yoga and  meditation images and videos.
 
 7. As a user I want to be able to submit my first name, surname and email.
 
@@ -71,7 +77,7 @@ the site.
 
  I initially had the idea of using the title Yogimed and realised that this may give the user the wrong impression. As the end of the  word maybe misinterpreted to mean medical.
 
- I also thought about using the title Harmony for the site as the remit was to use body/mind self-improvement techniques. I realised that this would be too confusing for users as a E harmony site already exists for people wishing to date.
+ I also thought about using the title Harmony for the site as the remit was to use body/mind self-improvement techniques. I realised that this would be too confusing for users as an E harmony site already exists for people wishing to date.
 
  I realised that The Wellbeing Retreat incorparated this feeling of the body/mind self improvement techniques and it was a place to go and learn.
 
@@ -83,11 +89,11 @@ In the skeletal process I first of all did my basic plan on paper with an outlin
 
 Then I used Balsamique to do a basic wireframe which i presented to my mentor and he recommended that I redo the wireframe so as to show better consistency and layout for the site. I appreciated his advice and I did an update of that wireframe.  As I was using Balsamique for the first time I had to get used to the functions.
 
-[Firstwireframe](assets/docs/wireframes/second-wireframe.png)
+[Firstwireframe](assets/docs/wireframes/first-wireframe.png)
 
-[Secondwireframe](assets/docs/wireframes/first-wireframe.png)
+[Secondwireframe](assets/docs/wireframes/second-wireframe.png)
 
-[Thirdwireframe](assets/docs/wireframes/third-wireframe-3a.png)
+[Thirdwireframe](assets/docs/wireframes/third-wireframe.png)
 
 I was shown by the tutor support team about how to load up my wireframes into git hub and then to add them to my readme as this was the correct way to do it.
 
