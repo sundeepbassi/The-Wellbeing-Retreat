@@ -14,6 +14,10 @@
 
 ### User Stories
 
+Link to The Wellbeing Retreat in any screen sizes below.
+
+[Any Screen](assets/docs/screenshots/any-screen.png)
+
 1. As a user I want to know that I have come to a site about self-improvement techniques mainly yoga and meditation.
 
 2. As a user I want to be able to easily navigate around 
@@ -105,6 +109,11 @@ In the surface we can see that there is plenty of space that is uncluttered and 
 The look and feel of these pages have to consistently flow and engage the user in a process of learning.
 
 
+
+
+
+
+
  ### Structure
  The structure consists of a:
 
@@ -120,7 +129,7 @@ The look and feel of these pages have to consistently flow and engage the user i
 
  Footer
 
- Copyright 
+ 
 
 
 
