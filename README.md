@@ -413,6 +413,20 @@ Web Accessibilty Evaluation Tool
 
  ### Validator Testing
 
+Validator test for index in html is a pass tested on W3C validation service.
+
+[Index](assets/docs/screenshots/html-pass.png)
+
+
+Validator test for gallery in html is a pass tested on W3C validation service.
+
+[Gallery](assets/docs/screenshots/gallery-pass.png)
+
+Validator test for stylesheet in css is a pass tested on W3C CSS validation service (Jigsaw).
+
+[Stylesheet](assets/docs/screenshots/stylesheet-pass.png)
+
+
 I did a number of validator tests and the main problem that needed to be dealt with was an error with the syntax to do with id.  In the code the validator showed me that there were duplicate id's being listed.  I removed the id's but then the right bottom side of the page became misaligned.
 
 
