@@ -286,7 +286,7 @@ The gallery was designed to incorporate a number of different images about yoga 
 
 (4) People and their pets doing these activities.
 
-I selected these images to show that yoga and meditation  could be both accessible and fun.
+I selected these images to show that anyone could do yoga and meditation and it was fun.
 ####  Video
 
 The two videos had error messages in the validator checks I was not sure whether to add them, the error was removed in the code and another check was done and it passed the test.
@@ -310,13 +310,14 @@ I tried to centre the videos and I looked at information from the free code acad
 
 The sign up section will have the following.
 
-First Name and an input box.
+(1) First Name and an input box.
 
-Surname and and input box.
+(2) Surname and and input box.
 
-Email and and input box.
+(3) Email and and input box.
 
-A submit button.
+(4) A submit button.
+
 
  #### The Footer Section
 
@@ -324,9 +325,9 @@ The footer will include icons for Twitter, facebook, instagram and Youtube.
 
 There will be copyright information at the bottom.
 
-Again I do not want to put the footer ina different coloured area as I feel this may distract from the overall theme of the site.
+Again I do not want to put the footer in a different coloured area, as I feel this may distract from the overall theme of the site.
 
-I noticed that the sign up red submit button was being pressed tbat the social media icons opened up.  I used google developer tools to check what was going on and I noticed the both the social media and the sign up submit button overlapped.  I rectified this by adding margin-top: 100px; to the footer section and it rectified the problem.
+I noticed that when the sign up red submit button was being pressed that the social media icons opened up.  I used google developer tools to check what was going on and I noticed that both the social media and the sign up submit button overlapped.  I rectified this by adding margin-top: 100px; to the footer section and it solved the problem.
 
  #### Features Left to Implement
 
@@ -335,7 +336,7 @@ I am thinking it would be good to have a section for teachers in the future.  Wh
 
 There could also be a place to list a timetable of classes.  
 
-I think with covid it has highlighted the importance of social distancing and conducting classes over the web through other media technologies such as zomm could be a good idea.
+I think with covid it has highlighted the importance of social distancing and conducting classes over the internet through other media technologies such as zoom could be a good idea.
 
  ### Testing
 
@@ -360,12 +361,12 @@ the site.
 
 5. As a user I want to do a lesson on yoga/meditation.
 
-* TEST: The user will have a lesson on yoga and meditation in the the yoga and meditation section.
+* TEST: The user will have a lesson on yoga and meditation in the yoga and meditation section.
 
 6. As a user I want to have  yoga and meditation images.
 
 
-* TEST: The user will see a yoga image and a meditation image in the image section.
+* TEST: The user will see a yoga image and a meditation image in the section.
 
 7. As a user I want to be able to submit my first name, surname and email.
 
@@ -385,13 +386,12 @@ Web Accessibilty Evaluation Tool
 
  ### Validator Testing
 
-I did a number of validator tests and the main problem that needed to be dealt with was an error with the syntax to do with id.  in the code the validator showed me that there were duplicate id's being listed.  I removed the id's but then the right bottom side of the page became misaligned.
+I did a number of validator tests and the main problem that needed to be dealt with was an error with the syntax to do with id.  In the code the validator showed me that there were duplicate id's being listed.  I removed the id's but then the right bottom side of the page became misaligned.
 
-On the 19th of June, I had added and committed information that I had done in the readme.  Checking the next day I noticed that the information had not been added.  I will contact student support and the tutor supprt to check why this has happened.  I do save my work after every peace of work and I do the git add and git commit commands and regularly do a git push to ensure that my work has been sent to github.
 
 The work that I submitted on the 19th of June 2021 was related to the right hand side of of the meditation section and how I had added the stucture and style to the right hand side of the meditation section.  I used the left and right about (id) markers to create to coloured temporary marker blocks to see if the structure was in alignment.  I found that the right hand side yoga section was shorter that the left hand side.  I used Google Developer tools to see why both sides were not equally balanced.  I found that the bottom margin was showing 100% on the left and although it was showing 100% on the right for the same input element, it still looked shorter on the right hand side.  I rectified the problem by increasing the right side value to 140%.
 
-17 June 2021.  The logo was not resizing,  tutor support guided me in the correct way of checking my code in the validators.  Found main bug in the HTML the bracket by the id=(logo ) had a space stopped logo from resizing.
+17 June 2021.  The logo was not resizing,  tutor support guided me in the correct way of checking my code in the validators.  I found the main bug in the HTML the bracket by the id=(logo ) had a space and it stopped the logo from resizing.
 
 On the 22nd of June I could not upload an image and was guided by tutor support to do a validator check and a number of errors were shown. After removing the errors the page became misaligned. The problem was located in the id property and there were duplicate copies in the HTML.  I found the solution by relabelling the duplicate id tags and it resolved the problem.
 
@@ -435,7 +435,9 @@ I used the display none for the videos in mobile devices as they were misalignin
 
 I created a media screen max width 400px as the sign up box was misaligning to the top for the mobile devices. The small screen was adjusted to 360px.
 
+There was a problem with the footer floating to the top in the smaller screen sizes.  Tutor support guided me to check out css tricks and I tried some of the examples but they did not work.  Tutor support suggested I use style=min-height 100vh in the section and this caused more errors when I did a validator check. I decided to remove that property.  The validator check passed when I removed that property.
 
+I found that the best thing to do was to remove the sign up box for the mobile devices and it rectified the problem. I also thought that with the smaller mobile devices that the social icons could be a better method of contact for the user and they would not have to fill in the sign up box.
 
 The above was checked through with the love running video about applying responsive design from the Code Institute.
 
@@ -454,11 +456,11 @@ The information above for deploying the project was taken from the love running 
 
  ### Credits
 
-The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough.
+The code for the Meta data, implementing the boilerplate and implementing the folder and file structure was adopted from the Code Institute Love Running Walkthrough project.
 
 To set the font, remove default margins and padding was shown in the Love Running Walkthrough.
 
-To set the navigation styles was shown in Love Running the Code Institute. I also learnt from deved to fix the navigation menu.
+To set the navigation styles was shown in Love Running the Code Institute. 
 
 To set the style for the heading and logo was shown in the love running from the code institute.  I also checked on MDN Web docs on how to use the float.
 
@@ -468,10 +470,9 @@ To set the changes to the navigation were shown in the love running video Code I
 
 To set the style for navigation links was shown in the love running video Code Institute.
 
-
 To construct the yoga and meditation sections were shown in the love running video by the Code Institue. However I had to do a sketch on paper, to check how the layout would look like for both the yoga and meditation sections. As I was going to have to split the screen into two sections.  The width was adjusted to 50% so as to make the two sections equal to fit the information.
 
-I also wanted to ensure that both the yoga and meditaion sections were kept consistent in their structures as they would be holding similar questions on the left hand side.
+I also wanted to ensure that both the yoga and meditaion sections were kept consistent in their structures as they would be holding similar questions on the left and right hand side.
 
 ### Left hand side of the screen
 
@@ -492,21 +493,23 @@ Right hand side of the screen
 
 The left side styling and structure was shown in the love running video by the Code Institute.  I adjusted the margin bottom to 100px so that it could fit better within the section.  I also floated it to the left.
 
-The right side styling and setting of the structure was shown in the love running video by the Code Institute. There were some alignment issues with the right and left not matching up.  I had to adjust the bottom margin of the right side so that they were equal. I checked with the background colour blocks on the left about and right about id elements. These othat had been placed on the screen as a temporat
+The right side styling and setting of the structure was shown in the love running video by the Code Institute. There were some alignment issues with the right and left not matching up.  I had to adjust the bottom margin of the right side so that they were equal. I checked with the background colour blocks on the left about and right about id elements. 
 
 I added the structure for the left hand side of the meditation structure which was exactly the same as the yoga section and these had been shown on the love running video of the Code Institute.  I could see how both of the structures were the same and this helped to keep the whole site the same and consistent.
 
-The right side of the meditation section for the structure and style was shown in the love running video by the Code Institute.  The process was the same as the yoga section and it has kept site the same and consistent.
+The right side of the meditation section for the structure and style was shown in the love running video by the Code Institute.  The process was the same as the yoga section and it has kept the site the simple and consistent.
 
 I had to adjust the bottom height of right about heading class because it was out of alignment with the left side heading class.
 
-The right about heading bottom right was increased to 150px to help it sit better with the left hand si
+The right about heading bottom right was increased to 150px to help it sit better with the left hand side.
 
 The sign up section is credited to a video tutorial by "How to create Sign up & Login form with HTML and CSS" | Easy tutorial | By Code Info. 
 
+[Code Info](https://www.youtube.com/watch?v=-1oE7CWweIE&t=313s)
+
 I also found it useful to watch  "Forms In HTML and CSS | How To Create A Form | Learn HTML and CSS | HTML Tutorial | CSS Tutorial" by Dani Krossing, this helped me to understaand how the forms are structured. The submit form was kept simple in line with the rest of the layout for the site.  
 
-The submit button was done in tomotoa red, so that the user could see, it is a form to fill in. I also checked on the colour coded chart by Lifewire, Jeremy Girard, to see what was the best text font colour for the submit button, done in tomotoa red.  On the chart, White as a text font colour was considered to be one of the best colours for visilbilty and design. A cursor pointer was added for visibilty of the user to see that it is a clickable button.
+The submit button was done in tomotoa red, so that the user could see that it is a form to fill in. I also checked on the colour coded chart by Lifewire, Jeremy Girard, to see what was the best text font colour for the submit button and it was done in tomotoa red.  On the chart, White as a text font colour was considered to be one of the best colours for visilbilty and design. A cursor pointer was added for visibilty for the user to see that it is a clickable button.
 
 The addition of the social media icons in the footer was shown the the love running video by the Code Institute.
 
@@ -519,6 +522,8 @@ style setting for media queries below 950px was shown in the love running video 
 Adding styles to the yoga and meditation sections for mobile screens was shown on love running from the Code Institute.
 
 The method to make inernal links work correctly was found in the LMS of the Code institute.
+
+I removed the copyright as I felt it was not needed for this project, the information below is just for future reference.
 
 I placed the copyright section myself and used a div with a id="copyright" to set it up.
 
@@ -579,7 +584,7 @@ How to use Gitpod and implementing the project is accredited to the Code Institu
 
 The Tutor Support helped me to sort out the initial technical issues with Gitpod especially with the Git Push error that Jo from Belgium helped me to sort out.
 
-The Information about the five planes of User Experience Design are accredited to Jesse James Garrett as displayed in the UXD part of the code Institute course. This part of the course I found very useful especially in trying to understand what the user wishes to get from a service or website.  This helped me to think about the users needs more clearly.
+The Information about the five planes of User Experience Design are accredited to Jesse James Garrett as displayed in the UXD part of the Code Institute course. This part of the course I found very useful especially in trying to understand what the user wishes to get from a service or website.  This helped me to think about the users needs more clearly.
 
 Differentiating between User Experience and User Interface in the technology sector is attributed to Emil Lamprecht and Dee Scara from the Careerfoundary. Excellent video explaining the two roles in the industry.
 
@@ -599,9 +604,8 @@ Information on UX
 
  [Omar Elgabrys blog](https://medium.com/omarelgabrys-blog/ux-scope-part-4-7622cc2df13b)
 
- The implementation of user stories information was given to me by my mentor Excellence Illensami and he told me to look at how one of his students had implemented it into their project .
-
- [Henriqueperoni CI-MS3-Books-World](https://github.com/Henriqueperoni/CI-MS3-Books-World/blob/master/README.md#2-scope)
+ The implementation of user stories information was explained to me by my mentor Excellence Illensami and how to write them form the users perspective.
+ 
 
 Setting up the gallery html and adding the correct code was shown in the love running video from the Code Institute. I had problems getting the gallery nav bar to work and I was shown by tutor support how to link it back up to the index.html to get the nav bar to work, I also did a validator check and it worked.
 
@@ -645,7 +649,7 @@ Images were taken from Unsplash for the site.
 
 [Unsplash](https://unsplash.com/s/photos/yoga)
 
- ### Other General Project Advice
+ #### Other General Project Advice
  
- 
+ The project was challenging and rewarding.  I think keeping it simple was very useful as it gave me a sense of direction and a flow.
 
